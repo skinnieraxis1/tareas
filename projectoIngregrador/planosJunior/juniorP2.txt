@@ -349,3 +349,398 @@ camara3: pc1 + 2.6 + 17.2 = 19.9 + 2.6 + 17.2 = 40.7
 total: 520
 
 Comercio Exterior
+
+
+de rack a mini rack de Comercio Exterior:
+
+pc7: 2.6 + 3.8 + 1.4 = 7.8
+pc6: pc7 + 2 = 7.8 + 2 = 9.8
+pc5: pc6 + 2 = 9.8 + 2 = 11.8
+pc4: pc5 + 2 = 11.8 + 2 = 13.8
+pc3: pc4 + 2 = 13.8 + 2 = 15.8
+pc2: pc3 + 2 = 15.8 + 2 = 17.8
+pc1: pc2 + 2 = 17.8 + 2 = 19.8
+
+pc14: 2.6 + 1.4 = 4.0
+pc13: pc14 + 2 = 4.0 + 2 = 6.0
+pc12: pc13 + 2 = 6.0 + 2 = 8.0
+pc11: pc12 + 2 = 8.0 + 2 = 10.0
+pc10: pc11 + 2 = 10.0 + 2 = 12.0
+pc9: pc10 + 2 = 12.0 + 2 = 14.0
+pc8: pc9 + 2 = 14.0 + 2 = 16.0
+
+pc21: 2.6 + 1.4 = 4.0
+pc20: pc7 + 2 = 7.8 + 2 = 9.8
+pc19: pc6 + 2 = 9.8 + 2 = 11.8
+pc18: pc5 + 2 = 11.8 + 2 = 13.8
+pc17: pc4 + 2 = 13.8 + 2 = 15.8
+pc16: pc3 + 2 = 15.8 + 2 = 17.8
+pc15: pc2 + 2 = 17.8 + 2 = 19.8
+
+pc28: 2.6 + 3.8 + 1.4 = 7.8
+pc27: pc28 + 2 = 7.8 + 2 = 9.8
+pc26: pc27 + 2 = 9.8 + 2 = 11.8
+pc25: pc26 + 2 = 11.8 + 2 = 13.8
+pc24: pc25 + 2 = 13.8 + 2 = 15.8
+pc23: pc24 + 2 = 15.8 + 2 = 17.8
+pc22: pc23 + 2 = 17.8 + 2 = 19.8
+
+impresora1: pc12 + 0.5 = 16.0 + 0.5 = 16.5
+impresora2: pc13 + 0.5 = 6.0 + 0.5 = 6.5
+
+camara1: pc28 + 2.6 = 7.8 + 2.6 = 10.4
+camara2: pc22 + 2.6 + 11.6 = 19.8 + 2.6 + 11.6 = 34.0
+camara3: 2.6 + 3.4 + 2.6 + 33.6 = 72.2
+
+total: 487.8
+
+
+Control de seguridad
+
+
+de rack a mini rack de Control de seguridad:
+
+pc1: 2.6 + 3.3 + 1.4 = 7.3
+pc2: pc1 + 2.4 = 7.3 + 2.4 = 9.7
+pc3: pc2 + 2.4 = 9.7 + 2.4 = 12.1
+pc4: pc3 + 2.4 = 12.1 + 2.4 = 14.5
+pc5: pc4 + 2.4 = 14.5 + 2.4 = 16.9
+pc6: pc5 + 2.4 = 16.9 + 2.4 = 19.3
+
+pc7: 2.6 + 1.4 = 4.0
+pc8: pc7 + 2.4 = 4.0 + 2.4 = 6.4
+pc9: pc8 + 2.4 = 6.4 + 2.4 = 8.8
+pc10: pc9 + 2.4 = 8.8 + 2.4 = 11.2
+pc11: pc10 + 2.4 = 11.2 + 2.4 = 13.6
+pc12: pc11 + 2.4 = 13.6 + 2.4 = 16.0
+
+pc13: 2.6 + 1.4 = 4.0
+pc14: pc13 + 2.4 = 4.0 + 2.4 = 6.4
+pc15: pc14 + 2.4 = 6.4 + 2.4 = 8.8
+pc16: pc15 + 2.4 = 8.8 + 2.4 = 11.2
+pc17: pc16 + 2.4 = 11.2 + 2.4 = 13.6
+pc18: pc17 + 2.4 = 13.6 + 2.4 = 16.0
+
+pc19: 2.6 + 3.3 + 1.4 = 7.3
+pc20: pc19 + 2.4 = 7.3 + 2.4 = 9.7
+pc21: pc20 + 2.4 = 9.7 + 2.4 = 12.1
+pc22: pc21 + 2.4 = 12.1 + 2.4 = 14.5
+pc23: pc22 + 2.4 = 14.5 + 2.4 = 16.9
+pc24: pc23 + 2.4 = 16.9 + 2.4 = 19.3
+pc25: pc24 + 1.4 = 19.3 + 1.4 = 20.7
+
+impresora1: pc1 + 0.8 = 7.3 + 0.8 = 8.1
+impresora2: pc2 + 0.8 = 9.7 + 0.8 = 10.5
+impresora3: pc3 + 0.8 = 12.1 + 0.8 = 12.9
+impresora4: pc4 + 0.8 = 14.5 + 0.8 = 15.3
+impresora5: pc5 + 0.8 = 16.9 + 0.8 = 17.7
+
+impresora6: pc7 + 0.8 = 4.0 + 0.8 = 4.8
+impresora7: pc8 + 0.8 = 6.4 + 0.8 = 7.2
+impresora8: pc9 + 0.8 = 8.8 + 0.8 = 9.6
+impresora9: pc10 + 0.8 = 11.2 + 0.8 = 12.0
+
+impresora10: pc11 + 0.8 = 13.6 + 0.8 = 14.4
+impresora11: pc19 + 0.8 = 7.3 + 0.8 = 8.1
+impresora12: pc20 + 0.8 = 9.7 + 0.8 = 10.5
+impresora13: pc21 + 0.8 = 12.1 + 0.8 = 12.9
+impresora14: pc22 + 0.8 = 14.5 + 0.8 = 15.3
+impresora15: pc23 + 0.8 = 16.9 + 0.8 = 17.7
+
+camara1: pc25 + 2.6 = 20.7 + 2.6 = 23.3
+camara2: pc19 + 2.6 = 7.3 + 2.6 = 9.9
+camara3: pc1 + 2.6 = 7.3 + 2.6 = 9.9
+
+total: 584.9
+
+
+Seguridad
+
+de rack a mini rack de seguridad:
+
+pc1: 2.6 + 2.35 + 1.4 = 6.35
+pc2: pc1 + 1.4 = 6.35 + 1.4 = 7.75
+pc3: pc2 + 1.4 = 7.75 + 1.4 = 9.15
+pc4: pc3 + 1.4 = 9.15 + 1.4 = 10.55
+
+pc5: 2.6 + 2.25 + 1.4 = 6.25
+pc6: pc1 + 1.4 = 6.35 + 1.4 = 7.75
+pc7: pc2 + 1.4 = 7.75 + 1.4 = 9.15
+pc8: pc3 + 1.4 = 9.15 + 1.4 = 10.55
+
+impresora1: 2.6 + 0.8 = 3.4
+impresora2: 2.6 + 0.8 = 3.4
+
+camara1: 2.6 + 2.4 + 2.6 = 11.6
+camara2: 2.6 + 2.3 + 2.6 = 7.5
+camara3: 2.6 + 2.3 + 6 + 2.6 = 13.5
+
+total: 106.9
+
+
+
+Oficina De Administracion
+
+de rack a mini rack de Administracion:
+
+
+pc6: 2.6
+
+pc1: 2.6 + 2.2 + 0.6 = 5.4
+pc2: pc1 + 1 = 5.4 + 1 = 6.4
+pc3: pc2 + 1 = 6.4 + 1 = 7.4
+pc4: pc3 + 1 = 7.4 + 1 = 8.4
+pc5: pc4 + 1 = 8.4 + 1 = 9.4
+
+pc7: 2.6 + 2.2 + 0.6 = 5.4
+pc8: pc7 + 1 = 5.4 + 1 = 6.4
+pc9: pc8 + 1 = 6.4 + 1 = 7.4
+pc10: pc9 + 1 = 7.4 + 1 = 8.4
+pc11: pc10 + 1 = 8.4 + 1 = 9.4
+
+impresora3: pc3 + 1.3 = 7.4 + 1.3 = 8.7
+impresora1: impresora2 + 0.5 = 9.4 + 0.5 = 9.9
+impresora2: impresora3 + 0.75 = 8.7 + 0.75 = 9.45
+impresora4: impresora3 + 0.75 = 8.7 + 0.75 = 9.45
+impresora5: impresora4 + 0.5 = 9.45 + 0.5 = 9.95
+
+impresora8: pc9 + 1.3 = 7.4 + 1.3 = 8.7
+impresora6: impresora7 + 0.5 = 9.4 + 0.5 = 9.9
+impresora7: impresora8 + 0.75 = 8.7 + 0.75 = 9.45
+impresora9: impresora8 + 0.75 = 8.7 + 0.75 = 9.45
+impresora10: impresora9 + 0.5 = 9.45 + 0.5 = 9.95
+
+camara1: 2.6 + 2.4 + 2.6 = 11.6
+camara2: 2.6 + 2.4 + 5 + 2.6 = 12.6
+camara3: 2.6 + 2.4 + 2.6 = 7.6
+
+total: 204.3
+
+
+
+Area Control de acceso 
+
+de rack a mini rack de Area Control de acceso :
+
+pc4: 1.7 + 2.6 + 1.4 = 5.7
+pc3: pc4 + 2.4 = 5.7 + 2.4 = 8.1
+pc2: pc3 + 2.4 = 8.1 + 2.4 = 10.5
+pc1: pc2 + 2.4 = 10.5 + 2.4 = 12.9
+
+pc8: 1.7 + 2.6 + 1.4 = 5.7
+pc7: pc8 + 2.4 = 5.7 + 2.4 = 8.1
+pc6: pc7 + 2.4 = 8.1 + 2.4 = 10.5
+pc5: pc6 + 2.4 = 10.5 + 2.4 = 12.9
+
+impresora1: pc1 + 0.8 = 12.9 + 0.8 = 13.7
+impresora2: pc2 + 0.8 = 10.5 + 0.8 = 11.3
+impresora3: pc3 + 0.8 = 8.1 + 0.8 = 8.9
+impresora4: pc4 + 0.8 = 5.7 + 0.8 = 6.5
+
+impresora5: pc5 + 0.8 = 12.9 + 0.8 = 13.7
+impresora6: pc6 + 0.8 = 10.5 + 0.8 = 11.3
+impresora7: pc7 + 0.8 = 8.1 + 0.8 = 8.9
+impresora8: pc8 + 0.8 = 5.7 + 0.8 = 6.5
+
+camara1: 1.85
+camara2: 28.9
+camara3: 1.85 + 2.6 + 9.4 + 2.6 + 27 = 43.45
+
+
+total: 229.4
+
+
+Area de Desarollo de Software
+
+de rack a mini rack de Desarollo de Software:
+
+pc7: 2.6 + 3.7 + 1.4 = 7.7
+pc6: pc7 + 2.4 = 7.7 + 2.4 = 10.1
+pc5: pc6 + 2.4 = 10.1 + 2.4 = 12.5
+pc4: pc5 + 2.4 = 12.5 + 2.4 = 14.9
+pc3: pc4 + 2.4 = 14.9 + 2.4 = 17.3
+pc2: pc3 + 2.4 = 17.3 + 2.4 = 19.7
+pc1: pc2 + 2.4 = 19.7 + 2.4 = 22.1
+
+pc14: 2.6 + 1.4 = 4.0
+pc13: pc14 + 2.4 = 4.0 + 2.4 = 6.4
+pc12: pc13 + 2.4 = 6.4 + 2.4 = 8.8
+pc11: pc12 + 2.4 = 8.8 + 2.4 = 11.2
+pc10: pc11 + 2.4 = 11.2 + 2.4 = 13.6
+pc9: pc10 + 2.4 = 13.6 + 2.4 = 16.0
+pc8: pc9 + 2.4 = 16.0 + 2.4 = 18.4
+
+pc21: 2.6 + 1.4 = 4.0
+pc20: pc21 + 2.4 = 4.0 + 2.4 = 6.4
+pc19: pc20 + 2.4 = 6.4 + 2.4 = 8.8
+pc18: pc19 + 2.4 = 8.8 + 2.4 = 11.2
+pc17: pc18 + 2.4 = 11.2 + 2.4 = 13.6
+pc16: pc17 + 2.4 = 13.6 + 2.4 = 16.0
+pc15: pc16 + 2.4 = 16.0 + 2.4 = 18.4
+
+impresora1: pc3 + 0.8 = 17.3 + 0.8 = 18.1
+impresora2: pc6 + 0.8 = 10.1 + 0.8 = 10.9
+impresora3: pc10 + 0.8 = 13.6 + 0.8 = 14.4
+impresora4: pc13 + 0.8 = 6.4 + 0.8 = 7.2
+
+camara1: 2.6 + 3.7 + 2.6 = 9.9
+camara2: 17.2
+camara3: pc1 + 2.6 + 14.1 = 22.1 + 2.6 + 14.1 = 38.8
+
+
+Sala De Almacenamiento de Datos 
+
+
+de rack a mini rack de Sala De Almacenamiento de Datos:
+
+pc5: 1.18 + 2.6 + 1.4 + 0.92 = 6.1
+pc4: 1.18 + 2.6 + 1.55 + 1 = 6.33
+pc3: pc4 + 1 = 6.33 + 1 = 7.33
+pc2: pc3 + 1.65 + 1.3 = 7.33 + 1.65 + 1.3 = 10.28
+pc1: pc2 + 1 = 10.28 + 1 = 11.28
+
+impresora7: 1.18 + 1.35 + 1.6 + 0.47 = 4.6
+impresora6: impresora7 + 0.6 = 4.6 + 0.6 = 5.2
+impresora5: impresora6 + 0.6 = 5.2 + 0.6 = 5.8
+impresora4: impresora5 + 0.6 = 5.8 + 0.6 = 6.4
+
+impresora3: impresora4 + 0.6 + 1.23 = 6.4 + 0.6 + 1.23 = 8.23
+impresora2: impresora3 + 0.6 = 8.23 + 0.6 = 8.83
+impresora1: impresora2 + 0.6 = 8.83 + 0.6 = 9.43
+
+camara1: impresora7 + 1.35 = 4.6 + 1.35 = 5.95
+camara2: impresora4 + 0.6 + 1.35 = 6.4 + 0.6 + 1.35 = 8.35
+camara3: impresora1 + 0.45 + 1.35 = 9.43 + 0.45 + 1.35 = 11.23
+
+total: 115.34
+
+
+Tesoreria
+
+
+de rack a mini rack de Tesoreria:
+
+pc1: 3.6 + 2.6 + 1.4 = 7.6
+pc2: pc1 + 2.4 = 7.6 + 2.4 = 10.0
+pc3: pc2 + 2.4 = 10.0 + 2.4 = 12.4
+pc4: pc3 + 2.4 = 12.4 + 2.4 = 14.8
+pc5: pc4 + 2.4 = 14.8 + 2.4 = 17.2
+
+pc6: 2.6 + 1.4 = 4.0
+pc7: pc6 + 2.4 = 4.0 + 2.4 = 6.4
+pc8: pc7 + 2.4 = 6.4 + 2.4 = 8.8
+pc9: pc8 + 2.4 = 8.8 + 2.4 = 11.2
+pc10: pc9 + 2.4 = 11.2 + 2.4 = 13.6
+pc11: pc10 + 2.4 = 13.6 + 2.4 = 16.0
+
+pc12: 2.6 + 1.4 = 4.0
+pc13: pc12 + 2.4 = 4.0 + 2.4 = 6.4
+pc14: pc13 + 2.4 = 6.4 + 2.4 = 8.8
+pc15: pc14 + 2.4 = 8.8 + 2.4 = 11.2
+pc16: pc15 + 2.4 = 11.2 + 2.4 = 13.6
+pc17: pc16 + 2.4 = 13.6 + 2.4 = 16.0
+
+impresora1: pc7 + 0.8 = 6.4 + 0.8 = 7.2
+impresora2: pc9 + 0.8 = 11.2 + 0.8 = 12.0
+
+camara1: 3.6
+camara2: 7
+camara3: 3.6 + 29.9 = 33.5
+
+total: 245.3
+
+
+Sala De Vigilancia y Monitoreo
+
+
+pc1: 3.8 + 2.6 + 2.42 = 8.82
+pc2: pc1 + 2.4 = 8.82 + 2.4 = 11.22
+pc3: pc2 + 2.4 = 11.22 + 2.4 = 13.62
+pc4: pc3 + 2.4 = 13.62 + 2.4 = 16.02
+
+impresora1: 3.8 + 2.6 + 0.8 = 7.2
+
+impresora2: pc1 + 0.8 = 8.82 + 0.8 = 9.62
+
+impresora3: pc2 + 0.8 = 11.22 + 0.8 = 12.02
+impresora4: impresora3 + 0.6 = 12.02 + 0.6 = 12.62
+
+impresora5: pc3 + 0.8 = 13.62 + 0.8 = 14.42
+
+impresora6: pc4 + 0.8 = 16.02 + 0.8 = 16.82
+impresora7: impresora6 + 0.6 = 16.82 + 0.6 = 17.42
+
+camara1: 3.85
+camara2: 28.65
+camara3: impresora7 + 2.6 + 18.4 = 17.42 + 2.6 + 18.4 = 38.42
+
+total: 210.72
+
+
+Sala de Innovacion y Creatividad
+
+
+de rack a mini rack de Innovacion y Creatividad:
+
+pc4: 2.6 + 0.7 = 3.3
+pc3: pc4 + 2.4 = 3.3 + 2.4 = 5.7
+pc2: pc3 + 2.4 = 5.7 + 2.4 = 8.1
+pc1: pc2 + 2.4 = 8.1 + 2.4 = 10.5
+pc5: pc4 + 2.4 = 3.3 + 2.4 = 5.7
+pc6: pc5 + 2.4 = 5.7 + 2.4 = 8.1
+
+impresora1: pc2 + 0.8 = 8.1 + 0.8 = 8.9
+impresora2: pc3 + 0.8 = 5.7 + 0.8 = 6.5
+impresora3: pc4 + 0.8 = 3.3 + 0.8 = 4.1
+impresora4: pc4 + 0.8 = 3.3 + 0.8 = 4.1
+impresora5: pc5 + 0.8 = 5.7 + 0.8 = 6.5
+
+impresora6: pc6 + 0.6 + 1 + 0.5 = 8.1 + 0.6 + 1 + 0.5 = 10.2
+impresora7: impresora6 + 0.5 = 10.2 + 0.5 = 10.7
+impresora8: impresora7 + 0.5 = 10.7 + 0.5 = 11.2
+impresora9: impresora8 + 0.5 = 11.2 + 0.5 = 11.7
+impresora10: impresora9 + 0.5 = 11.7 + 0.5 = 12.2
+
+impresora11: pc6 + 0.6 + 1.28 + 0.5 = 8.1 + 0.6 + 1.28 + 0.5 = 10.49
+impresora12: impresora11 + 0.5 = 10.49 + 0.5 = 10.99
+impresora13: impresora12 + 0.5 = 10.99 + 0.5 = 11.49
+impresora14: impresora13 + 0.5 = 11.49 + 0.5 = 11.99
+impresora15: impresora14 + 0.5 = 11.99 + 0.5 = 12.49
+
+camara1: pc1 + 2.6 = 10.5 + 2.6 = 13.1
+camara2: camara1 + 14.9 = 13.1 + 14.9 = 28.0
+camara3: pc6 + 0.6 + 2.6 + 26 = 8.1 + 0.6 + 2.6 + 26 = 37.3
+
+total: 263.35
+
+
+diseño
+
+
+de rack a mini rack de diseño:
+
+pc4: 1.7 + 2.6 + 1.4 = 5.7
+pc3: pc4 + 2.4 = 5.7 + 2.4 = 8.1
+pc2: pc3 + 2.4 = 8.1 + 2.4 = 10.5
+pc1: pc2 + 2.4 = 10.5 + 2.4 = 12.9
+
+pc8: 1.7 + 2.6 + 1.4 = 5.7
+pc7: pc8 + 2.4 = 5.7 + 2.4 = 8.1
+pc6: pc7 + 2.4 = 8.1 + 2.4 = 10.5
+pc5: pc6 + 2.4 = 10.5 + 2.4 = 12.9
+
+impresora1: pc1 + 0.8 = 12.9 + 0.8 = 13.7
+impresora2: pc2 + 0.8 = 10.5 + 0.8 = 11.3
+impresora3: pc3 + 0.8 = 8.1 + 0.8 = 8.9
+impresora4: pc4 + 0.8 = 5.7 + 0.8 = 6.5
+
+impresora5: pc5 + 0.8 = 12.9 + 0.8 = 13.7
+impresora6: pc6 + 0.8 = 10.5 + 0.8 = 11.3
+impresora7: pc7 + 0.8 = 8.1 + 0.8 = 8.9
+impresora8: pc8 + 0.8 = 5.7 + 0.8 = 6.5
+
+camara1: 2
+camara2: 13.9
+camara3: impresora5 + 5.5 = 13.7 + 5.5 = 19.2
+
+total: 190.3

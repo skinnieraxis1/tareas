@@ -1,0 +1,25 @@
+DE RACK A MINIRACK
+
+piso1:
+
+
+
+piso2: 
+
+Sala de Servidores: 20
+
+Centro De Datos Seguros: 20 + 11
+
+Soporte Tecnico: 20 + 23
+
+Área de Recreación: 20 + 35
+
+CAFETERIA: 20 + 43.9
+
+Recursos Humanos: 20 + 50
+
+Oficina De Proyectos: 20 + 23.6 + 10.84
+
+Sala De Archivo Seguro: 20 + 28.6 + 12.8
+
+Comercio Exterior: 20 + 14 + 35.9
