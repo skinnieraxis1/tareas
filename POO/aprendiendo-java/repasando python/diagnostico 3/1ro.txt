@@ -1,0 +1,7 @@
+1. ¿Que es una matriz?
+- Una matriz, tambien conocido internacionalmente como un array, en el mundo de la programacion es descrito como un conjunto de objetos o variables,
+  parecido a lo que es un vector.
+
+2. ¿Python soporta matrices?
+- No python no soporta matrices. Python las suplanta por listas, que son modelos simplificados de arrays y vectores, en los cuales no importa de que
+  tipo son sus variables internas. Por otro lado python tampoco soporta objetos asi que es imposible la existencia de un array

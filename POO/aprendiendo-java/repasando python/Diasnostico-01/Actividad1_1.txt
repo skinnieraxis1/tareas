@@ -1,0 +1,8 @@
+1. ¿Que es programar?
+- Programamr es diseñar un programa que cumple una cierta funcion utilizando series de comandos
+  atraves de un lenguaje de programacion el cual le indica las instrucciones.
+2. Definir termino "algoritmo" y "compilar":
+- Un algoritmo es una serie de instrucciones que cumplen un cierto objetivo, pueden variar 
+  dependiendo del valor de entrada.
+- Compilar es la accion de traducir las instrucciones que indicamos en forma de lenguajes de 
+  programacion a un lenguaje que entienda la computadora.

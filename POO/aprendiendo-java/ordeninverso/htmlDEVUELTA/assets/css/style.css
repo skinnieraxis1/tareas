@@ -1,0 +1,35 @@
+.title{
+    color: #f6caac;
+    text-shadow:0 0 5px #f0995f;
+    max-width: 200px;
+    font-size: 100px;
+    letter-spacing: 30px;
+}
+
+.title-div{
+    height: 15%;
+    width: 100%;
+    background-color: #d9d9d9;
+}
+
+.provincia{
+    height: 15%;
+    width: 100%;
+}
+
+.s{
+    background-color: #ffe599;
+}
+
+.title-provincia{
+    font-size: 100px;
+}
+
+.p{
+    height: 15%;
+    border-bottom: 3px solid black;
+}
+
+.p1{
+    border-right: 3px solid black;
+}

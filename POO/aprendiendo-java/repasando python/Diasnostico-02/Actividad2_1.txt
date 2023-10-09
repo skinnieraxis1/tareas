@@ -1,0 +1,6 @@
+1. ¿Qué son los parámetros?
+- Son variables que se le ponen a una funcion para su uso en esta.
+2. ¿Qué significan los términos "Pasaje por valor" y "Pasaje por referencia"?
+- Pasaje por valor es copiar un valor a una lista, convirtiendola en valor local, 
+  el pasaje por referencia es manejar directamente la variable en una funcion,
+  siendo capaz de modificarla en la funcion.
