@@ -1,0 +1,34 @@
+package poo_grupal_breakfast;
+
+public class Cliente extends Persona{
+    private int cantDesayunos;
+    
+  
+    public Cliente(String nombre,int numeroTel, int cantDesayunos){
+        super(nombre,numeroTel);
+        this.cantDesayunos=cantDesayunos;
+    }
+    public void toString(){
+        super.toString();
+        System.out.println("\nCantidad de desayunos: "+ this.cantDesayunos);
+    }
+    
+}
+
+
+package poo_grupal_breakfast;
+
+public class Empleado extends Persona{
+    private double sueldo;
+    
+  
+    public Empleado(String nombre,int numeroTel, double sueldo){
+        super(nombre,numeroTel);
+        this.sueldo=sueldo;
+    }
+    public void toString(){
+        super.toString();
+        System.out.println("\nSueldo: "+ this.sueldo);
+    }
+    
+}
