@@ -1,0 +1,33 @@
+body{
+    background-color: #ffebcd;
+}
+
+.title{
+    margin: 50px 28% 50px 37%;
+    font-size: 50px;
+}
+.form{
+    margin: 0px 400px 0px 400px;
+    padding: 50px 100px 50px 100px;
+    background-color: #ffc0cb;
+    border-radius: 25px;
+}
+.form-check{
+    display: flex;
+    flex-direction: row;
+}
+
+.subtitle{
+    margin: 0px 40px 0px 0px;
+}
+
+.mb-3{
+    margin: 50px 0px 50px 0px!important;
+}
+
+.cont{
+    margin: 50px;
+    background-color: #ffc0cb;
+    padding: 10px 37% 10px 35%;
+    border-radius: 25px;
+}
