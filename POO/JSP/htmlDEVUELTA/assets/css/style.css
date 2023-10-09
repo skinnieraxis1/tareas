@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.title{
+    color: #f6caac;
+    text-shadow:0 0 5px #f0995f;
+    max-width: 200px;
+    font-size: 100px;
+    letter-spacing: 30px;
+}
+
+.title-div{
+    height: 15%;
+    width: 100%;
+    background-color: #d9d9d9;
+}
+
+.provincia{
+    height: 15%;
+    width: 100%;
+    border-bottom: 3px solid black;
+}
+
+.s{
+    background-color: #ffe599;
+}
+
+.m{
+    background-color: #b4c6e7;
+}
+
+.n{
+    background-color: #c5e0b3;
+}
+
+.title-provincia{
+    font-size: 60px;
+}
+
+.p{
+    height: 15%;
+}
+
+.p1{
+    border-right: 3px solid black;
+    height: 100%;
+}
+
+.p2{
+    padding: 20px;
+}
+
+.p-check{
+    margin: 40px 0px 40px 0px !important;
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.p-check-div{
+    padding: 0px 0px 0px 27% !important;
+}
+
+.container{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.p-img{
+    width: 100%;
+    height: 130px;
+}
+
+.p4{
+    padding: 28px 0px 10px 0px;
+}
+
+.p5{
+    padding: 26px 0px 26px 0px;
+    background-color: #f7caac;
+}
+
+.container{
+    max-width: 99.35% !important;
+}
+
+.pedido-check{
+    float: none !important; 
+}
+
+.form{
+    padding: 50px 400px 50px 400px;
+}
