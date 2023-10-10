@@ -1,0 +1,32 @@
+use proyecto
+
+db.createCollection("productos")
+
+db.productos.insertMany([
+{
+	nombre: "Martin Hossein",
+	descripcion: "Un pibe re lindo",
+	precio: 100,
+	cantidad: 1
+},
+{
+	nombre: "Teclado",
+	descripcion: "Este teclado nefasto",
+	precio: 1,
+	cantidad: 1
+},
+{
+	nombre: "La vieja de alguien",
+	descripcion: "Alto culo",
+	precio: 1001,
+	cantidad: 3
+},
+{
+	nombre: "Una letra",
+	descripcion: "Es una letra no se que queres que diga",
+	precio: 9999999,
+	cantidad: 27
+}
+])
+
+db.productos.find()
