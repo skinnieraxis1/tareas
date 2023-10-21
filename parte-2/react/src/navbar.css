@@ -1,0 +1,32 @@
+.navbar{
+    height: 70px;
+    background-color: #8a8c92;
+}
+
+*{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.but{
+    background-color: #8a8c92;
+    width: 100px;
+    height: 70px;
+    border: 0px;
+    color: #3b3b3f;
+}
+.but:hover{
+    background-color: #a0a1a6;
+}
+
+.title{
+    padding: 10px 0px 0px 30px; 
+    width: 180px;
+    height: 60px;
+    float: left;
+    border: 10px ;
+    color: #3b3b3f
+}
+.title:hover{
+    background-color: #a0a1a6;
+}
