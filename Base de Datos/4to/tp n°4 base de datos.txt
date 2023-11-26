@@ -1,0 +1,16 @@
+3_SELECT apellido, email, fecha_nacimiento, nombre, password, usuario, ID_JUGADOR
+FROM jugador
+ORDER BY apellido ASC
+4_SELECT fecha_jugador, jugador, puntos, codigo
+FROM puntaje
+ORDER BY puntos DESC
+5_SELECT usuario, email, password 
+FROM jugador;
+6_UPDATE
+	jugador set apellido="Feruglio"
+WHERE apellido="Eustraquio"
+7_DELETE
+from jugador
+WHERE ID_JUGADOR=4
+8_DELETE
+from puntaje
