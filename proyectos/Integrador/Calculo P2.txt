@@ -1,0 +1,52 @@
+P2=
+Oficina de soporte técnico=240.92
+Rack a Minirack_habST= 2.8+3.5+12+2+24+2.1+0.12+2.8 =49.32
+Minirack_habST a pc1 = 2+2.2 =4.2
+Minirack_habST a pc2 = 2+0.2 =2.2
+Minirack_habST a pc3 = 2+2.6 =4.6
+Minirack_habST a pc4 = 2+5.1 =7.1
+Minirack_habST a pc5 = 2+6+4+1.9 =13.9
+Minirack_habST a pc6 = 2+6+4+4.3 =16.3
+Minirack_habST a pc7 = 2+6+4+6.7 =18.7
+Minirack_habST a pc8 = 2+6+4+9 =21
+Minirack_habST a imp1 = 2+1.5 =3.5
+Minirack_habST a imp2 = 2+1 =3 
+Minirack_habST a imp3 = 2+3.4 =5.4
+Minirack_habST a imp4 = 2+5.8 =7.8
+Minirack_habST a imp5 = 2+6+4+2.6 =14.6
+Minirack_habST a imp6 = 2+6+4+5 =17
+Minirack_habST a imp7 = 2+6+4+7.5 =19.5
+Minirack_habST a cam1 = 2.8 
+Minirack_habST a cam2 = 16+4 = 20
+Minirack_habST a cam3 = 6+4 = 10
+
+Sala de conferencias=
+Rack a Minirack_Ca = 2.8+9.5+3.1+11+0.9+0.12+2+2.8.0.12+2.8=  
+Minirack_Ca a pc1 = 2+0.6 =
+Minirack_Ca a pc2 = 2+3 =
+Minirack_Ca a pc3 = 2+5.4 =
+Minirack_Ca a pc4 = 2+7.8 =
+Minirack_Ca a pc5 = 2+10.2 =
+Minirack_Ca a pc6 = 2+1.8 =
+Minirack_Ca a pc7 = 2+4.2 =
+Minirack_Ca a pc8 = 2+6.8 =
+Minirack_Ca a pc9 = 2+9.2 =
+Minirack_Ca a pc10 = 2+10+4.8+1.7 =
+Minirack_Ca a pc11 = 2+10+4.8+4.1 =
+Minirack_Ca a pc12 = 2+10+4.8+6.5 =
+Minirack_Ca a pc13 = 2+10+4.8+8.8 =
+Minirack_Ca a pc14 = 2+10+4.8+11.3 =
+Minirack_Ca a pc15 = 2+10+4.8+13.7 =
+Minirack_Ca a pc16 = 2+10+4.8+16.2 =
+Minirack_Ca a pc17 = 2+10+4.8+18.8 =
+Minirack_Ca a pc18 = 2+10+4.8+21.1 =
+Minirack_Ca a pc19 = 2+10+5.6+8 = 
+Minirack_Ca a pc20 = 2+10+5.6+10.6 =
+Minirack_Ca a pc21 = 2+10+5.6+12.9 =
+Minirack_Ca a imp1 = 2+2.2 =
+Minirack_Ca a imp2 = 2+4.7 =
+Minirack_Ca a imp3 = 2+7 =
+Minirack_Ca a imp4 = 2+2.6 =
+Minirack_Ca a cam1 = 10+2.6 =
+Minirack_Ca a cam2 = 30+2.8 = 
+Minirack_Ca a cam3 = 30+30+16.3= 

@@ -1,0 +1,688 @@
+Las medidas a continuación estaran en metros
+
+Piso 1:
+
+habitación diseño:
+
+RACK --> miniRack_habDiseño = 1.6 + 2.5 + 0.13 + 2.2 + 0.8 = 7.23
+
+
+
+miniRack_habDiseño --> pc1_diseño = 13.2 + 0.5 + 1.4 = 15.1
+
+miniRack_habDiseño --> pc2_diseño = 11.3 + 0.5 + 1.4 = 13.2
+
+miniRack_habDiseño --> pc3_diseño = 9.4 + 0.5 + 1.4 = 11.3
+
+miniRack_habDiseño --> pc4_diseño = 7.5 + 0.5 + 1.4 = 9.4
+
+miniRack_habDiseño --> pc5_diseño = 5.6 + 0.5 + 1.4 = 7.5
+
+miniRack_habDiseño --> pc6_diseño = 2.5 + 2.6 + 0.5 = 5.6
+
+
+
+miniRack_habDiseño --> pc7_diseño = 5.6 + 0.5 + 1.4 = 7.5
+
+miniRack_habDiseño --> pc8_diseño = 2.5 + 2.6 = 5.1
+
+miniRack_habDiseño --> pc9_diseño = 5.1 + 0.5 + 1.4 = 7
+
+miniRack_habDiseño --> pc11_diseño = 7 + 0.5 + 1.4 = 8.9
+
+miniRack_habDiseño --> pc12_diseño = 8.9 + 0.5 + 1.4 = 10.8
+
+miniRack_habDiseño --> pc13_diseño = 10.8 + 0.5 + 1.4 = 12.7
+
+miniRack_habDiseño --> pc14_diseño = 12.7 + 0.5 + 1.4 = 14.6
+
+
+
+miniRack_habDiseño --> pc15_diseño = 15.1 + 5 + 1.4 = 21.5
+
+miniRack_habDiseño --> pc16_diseño = 21.5 + 0.5 + 1.4 = 23.4
+
+miniRack_habDiseño --> pc17_diseño = 23.4 + 0.5 + 1.4 = 25.3
+
+miniRack_habDiseño --> pc18_diseño = 25.3 + 0.5 + 1.4 = 27.2
+
+miniRack_habDiseño --> pc19_diseño = 27.2 + 0.5 + 1.4 = 29.1
+
+miniRack_habDiseño --> pc20_diseño = 29.1 + 0.5 + 1.4 = 31
+
+miniRack_habDiseño --> pc21_diseño = 31 + 0.5 + 1.4 = 32.9
+
+miniRack_habDiseño --> pc22_diseño = 32.9 + 0.5 + 1.4 = 34.8
+
+miniRack_habDiseño --> pc23_diseño = 34.8 + 0.5 + 1.4 = 36.7
+
+miniRack_habDiseño --> pc24_diseño = 36.7 + 0.5 + 1.4 = 38.6
+
+miniRack_habDiseño --> pc25_diseño = 38.6 + 0.5 + 1.4 = 40.5
+
+
+miniRack_habDiseño --> imp1_diseño = 15.1 + 2.5 = 17.6
+
+miniRack_habDiseño --> imp1_diseño = 17.6 + 1 = 18.6
+
+
+miniRack_habDiseño --> imp3D1_diseño = 40.5 + 3.7 = 44.2
+
+miniRack_habDiseño --> imp3D2_diseño = 44.2 + 0.8 = 45
+
+miniRack_habDiseño --> imp3D3_diseño = 45 + 0.8 = 45.8
+
+
+miniRack_habDiseño --> plotter_diseño = 45.8 + 1.1 = 46.9
+
+
+miniRack_habDiseño --> cam1_diseño = 15.1 + 2.6 = 17.7
+
+miniRack_habDiseño --> cam2_diseño = 21.5 + 2.6 = 24.1
+
+miniRack_habDiseño --> cam3_diseño = 46.9 + 1 + 2.6 = 50.5
+
+
+
+
+
+habitación centro de datos seguro:
+
+
+
+
+
+RACK --> miniRack_habDS = 1.6 + 2.5 + 0.13 + 0.8 = 5.03
+
+
+miniRack_habDiseño --> imp1_DS = 0.6 + 0.13 + 11.8 + 1 + 1 = 14.53
+
+miniRack_habDiseño --> imp2_DS = 14.53 + 0.8 = 15.33
+
+miniRack_habDiseño --> imp3_DS = 15.33 + 0.8 = 16.13
+
+miniRack_habDiseño --> imp4_DS = 16.13 + 0.8 = 16.93
+
+miniRack_habDS --> imp5_DS = 1.8 + 1 = 2.8
+
+miniRack_habDS --> imp6_DS = 1.8
+
+miniRack_habDS --> imp7_DS = 1.8
+
+miniRack_habDS --> imp8_DS = 1.8 + 1 = 2.8
+
+
+miniRack_habDS --> cam1_DS = 1.5
+
+miniRack_habDS --> cam2_DS = 3.33 + 30 + 2 = 35.33
+ 
+miniRack_habDS --> cam3_DS = 3.33 + 16.5 = 19.83 
+
+
+
+miniRack_habDiseño --> pc1_DS = 0.6 + 0.13 + 8.8 + 1.6 + 1.8 + 2.5 = 15.43
+
+miniRack_habDiseño --> pc2_DS = 15.43 + 0.5 + 1.4 = 17.33
+
+miniRack_habDiseño --> pc3_DS = 17.33 + 0.5 + 1.4 = 19.23
+
+miniRack_habDS --> pc4_DS = 25.1 + 0.5 + 1.4 = 27
+
+miniRack_habDS --> pc5_DS = 23.2 + 0.5 + 1.4 = 25.1
+
+miniRack_habDS --> pc6_DS = 21.3 + 0.5 + 1.4 = 23.2
+
+miniRack_habDS --> pc7_DS = 19.4 + 0.5 + 1.4 = 21.3
+
+miniRack_habDS --> pc8_DS = 17.5 + 0.5 + 1.4 = 19.4
+
+miniRack_habDS --> pc9_DS = 15.6 + 0.5 + 1.4 = 17.5
+
+miniRack_habDS --> pc10_DS = 13.7 + 0.5 + 1.4 = 15.6
+
+miniRack_habDS --> pc11_DS = 11.8 + 0.5 + 1.4 = 13.7
+
+miniRack_habDS --> pc12_DS = 9.9 + 0.5 + 1.4 = 11.8
+
+miniRack_habDS --> pc13_DS = 7.8 + 0.7 + 1.4 = 9.9
+
+miniRack_habDS --> pc14_DS = 2.8 + 3.5 + 1.5 = 7.8
+
+miniRack_habDS --> pc15_DS = 7.8 + 0.7 + 1.4 = 9.9
+
+miniRack_habDS --> pc16_DS = 9.9 + 0.5 + 1.4 = 11.8
+
+miniRack_habDS --> pc17_DS = 11.8 + 0.5 + 1.4 = 13.7
+
+miniRack_habDS --> pc18_DS = 13.7 + 0.5 + 1.4 = 15.6
+
+miniRack_habDS --> pc19_DS = 15.6 + 0.5 + 1.4 = 17.5
+
+miniRack_habDS --> pc20_DS = 17.5 + 0.5 + 1.4 = 19.4
+
+miniRack_habDS --> pc21_DS = 19.4 + 0.5 + 1.4 = 21.3
+
+miniRack_habDS --> pc22_DS = 21.3 + 0.5 + 1.4 = 23.2
+
+miniRack_habDS --> pc23_DS = 23.2 + 0.5 + 1.4 = 25.1
+
+miniRack_habDS --> pc24_DS = 25.1 + 0.5 + 1.4 = 27
+
+miniRack_habDS --> pc25_DS = 27 + 0.5 + 1.4 = 28.9
+
+miniRack_habDS --> pc26_DS = 28.9 + 0.5 + 1.4 = 30.8
+
+
+
+miniRack_habDiseño --> pc27_DS = 15.43 + 0.5 + 1.4 = 17.33
+
+miniRack_habDiseño --> pc28_DS = 17.33 + 0.5 + 1.4 = 19.23
+
+miniRack_habDS --> pc29_DS = 27.53 + 0.5 + 1.4 = 29.43
+
+miniRack_habDS --> pc30_DS = 25.63 + 0.5 + 1.4 = 27.53
+
+miniRack_habDS --> pc31_DS = 23.73 + 0.5 + 1.4 = 25.63
+
+miniRack_habDS --> pc32_DS = 21.83 + 0.5 + 1.4 = 23.73
+
+miniRack_habDS --> pc33_DS = 19.93 + 0.5 + 1.4 = 21.83
+
+miniRack_habDS --> pc34_DS = 18.03 + 0.5 + 1.4 = 19.93
+
+miniRack_habDS --> pc35_DS = 16.13 + 0.5 + 1.4 = 18.03
+
+miniRack_habDS --> pc36_DS = 14.23 + 0.5 + 1.4 = 16.13
+
+miniRack_habDS --> pc37_DS = 12.33 + 0.5 + 1.4 = 14.23
+
+miniRack_habDS --> pc38_DS = 10.43 + 0.5 + 1.4 = 12.33
+
+miniRack_habDS --> pc39_DS = 3.33 + 4.5 + 2.6 = 10.43
+
+miniRack_habDS --> pc40_DS = 10.43 + 0.5 + 1.4 = 12.23
+
+
+
+
+habitación Sala de Recursos humanos:
+
+
+
+
+RACK --> miniRack_habRH = 1.6 + 2.5 + 0.13 + 0.6 + 0.8 = 5.63
+
+
+miniRack_habRH --> pc3_RH = 2.2 + 2.6 + 1.4 = 6.2
+
+miniRack_habRH --> pc4_RH = 6.2 + 1.4 = 7.6
+
+miniRack_habRH --> pc3_RH = 1.3 + 2.6 + 1.4 = 5.3
+
+miniRack_habRH --> pc4_RH = 5.3 + 1.4 = 6.7
+
+
+
+miniRack_habRH --> imp1_RH = 8.7 + 0.4  =  9.1
+
+miniRack_habRH --> imp2_RH = 8.3 + 0.4  =  8.7
+
+miniRack_habRH --> imp3_RH = 7.9 + 0.4 =  8.3
+
+miniRack_habRH --> imp4_RH = 1.3 + 4 + 2.6 =  7.9
+
+
+miniRack_habRH --> imp5_RH = 7.3 + 0.4  =  7.7
+
+miniRack_habRH --> imp6_RH = 6.9 + 0.4  =  7.3
+
+miniRack_habRH --> imp7_RH = 6.5 + 0.4 =  6.9
+
+miniRack_habRH --> imp8_RH = 1.3 + 4 + 1.2 =  6.5
+
+
+miniRack_habRH --> cam1_RH = 1 
+
+miniRack_habRH --> cam1_RH = 1.8 
+
+miniRack_habRH --> cam1_RH = 1.3 + 4 + 1.5 = 6.8
+
+
+
+habitación Sala de Servidores:
+
+
+
+miniRack_habRH --> pc1_Serv = 6.73 + 2 = 8.73
+
+miniRack_habRH --> pc2_Serv = 0.13 + 4 + 2.6 = 6.73
+
+miniRack_habRH --> pc3_Serv = 6.73 + 2.2 = 8.93
+
+miniRack_habRH --> pc4_Serv = 2.73 + 2 = 4.73
+
+miniRack_habRH --> pc5_Serv = 0.13 + 2.6 = 2.73
+
+miniRack_habRH --> pc6_Serv = 2.73 +2.2 = 4.93
+
+
+miniRack_habRH --> imp1_Serv = 8.73 + 0.5 = 9.23
+
+miniRack_habRH --> imp2_Serv = 8.23 + 0.5 = 8.73
+
+miniRack_habRH --> imp3_Serv = 7.73 + 0.5 = 8.23
+
+miniRack_habRH --> imp4_Serv = 0.13 + 4 + 2.6 + 1 = 7.73
+
+
+miniRack_habRH --> cam1_Serv = 4 + 1.6
+
+miniRack_habRH --> cam2_Serv = 1.6
+
+miniRack_habRH --> cam3_Serv = 4
+
+
+
+
+habitación Sala de Innovación y Creatividad :
+
+
+
+
+RACK --> miniRack_habIC = 1.6 + 16 + 1.9 + 0.8 = 20.3
+
+
+miniRack_habIC --> pc1_IC = 2.6 + 1.4 = 4
+miniRack_habIC --> pc2_IC = 4 + 1.4 = 5.4
+miniRack_habIC --> pc3_IC = 6.8
+miniRack_habIC --> pc4_IC = 8.2
+miniRack_habIC --> pc5_IC = 9.6
+miniRack_habIC --> pc6_IC = 11.0
+miniRack_habIC --> pc7_IC = 12.4
+miniRack_habIC --> pc8_IC = 13.8
+miniRack_habIC --> pc9_IC = 15.2
+miniRack_habIC --> pc10_IC = 16.6
+miniRack_habIC --> pc11_IC = 18.0
+miniRack_habIC --> pc12_IC = 19.4
+miniRack_habIC --> pc13_IC = 20.8
+miniRack_habIC --> pc14_IC = 22.2
+miniRack_habIC --> pc15_IC = 23.6
+miniRack_habIC --> pc16_IC = 25.0
+miniRack_habIC --> pc17_IC = 26.4
+
+miniRack_habIC --> pc18_IC = 2.6 + 2.6 + 1.4 = 6.6
+miniRack_habIC --> pc19_IC = 6.6 + 1.4 = 8.0
+miniRack_habIC --> pc20_IC = 8.0 + 1.4 = 9.4
+miniRack_habIC --> pc21_IC = 10.8
+miniRack_habIC --> pc22_IC = 12.2
+miniRack_habIC --> pc23_IC = 13.6
+miniRack_habIC --> pc24_IC = 15.0
+miniRack_habIC --> pc25_IC = 16.4
+miniRack_habIC --> pc26_IC = 17.8
+miniRack_habIC --> pc27_IC = 19.2
+miniRack_habIC --> pc28_IC = 20.6
+miniRack_habIC --> pc29_IC = 22.0
+miniRack_habIC --> pc30_IC = 23.4
+miniRack_habIC --> pc31_IC = 24.8
+miniRack_habIC --> pc32_IC = 26.2
+
+miniRack_habIC --> imp1_IC = 5 + 5 + 2.6 + 0.6 = 13.2
+miniRack_habIC --> imp2_IC = 13.2 + 2.2 = 15.4
+miniRack_habIC --> imp3_IC = 15.4 + 2.2 = 17.6
+miniRack_habIC --> imp4_IC = 17.6 + 2.2 = 19.8
+miniRack_habIC --> imp5_IC = 22.0
+miniRack_habIC --> imp6_IC = 24.2
+miniRack_habIC --> imp7_IC = 26.4
+miniRack_habIC --> imp8_IC = 28.6
+
+
+miniRack_habIC --> cam1_IC = 2.7
+miniRack_habIC --> cam2_IC = 17.6 + 1.3 + 2.6 = 21.5
+miniRack_habIC --> cam3_IC = 24.6
+
+
+
+habitación Sala Comercio Exterior:
+
+
+
+RACK --> miniRack_habCE = 1.6 + 5.5 + 1.9 + 0.8 = 9.8
+
+
+
+miniRack_habCE --> pc1_CE = 23.94
+miniRack_habCE --> pc2_CE = 21.54
+miniRack_habCE --> pc3_CE = 19.14
+miniRack_habCE --> pc4_CE = 16.74
+miniRack_habCE --> pc5_CE = 14.34
+miniRack_habCE --> pc6_CE = 9.54 + 2.4 = 11.94
+miniRack_habCE --> pc7_CE = 7.14 + 2.4 = 9.54
+miniRack_habCE --> pc8_CE = 4 + 3.14 = 7.14
+miniRack_habCE --> pc9_CE = 2.6 + 1.4 = 4
+
+miniRack_habCE --> pc17_CE = 4 + 3.4 = 7.4
+miniRack_habCE --> pc16_CE = 7.4 + 3.4 = 10.8
+miniRack_habCE --> pc15_CE = 10.8 + 2.4 = 13.2
+miniRack_habCE --> pc14_CE = 13.2 + 2.4 = 15.6
+miniRack_habCE --> pc13_CE = 18.0
+miniRack_habCE --> pc12_CE = 20.4
+miniRack_habCE --> pc11_CE = 22.8
+miniRack_habCE --> pc10_CE = 25.2
+
+miniRack_habCE --> pc1_CE = 19.2 + 2.4 = 21.6
+miniRack_habCE --> pc2_CE = 16.8 + 2.4 = 19.2
+miniRack_habCE --> pc3_CE = 14.4 + 2.4 = 16.8
+miniRack_habCE --> pc4_CE = 12.0 + 2.4 = 14.4
+miniRack_habCE --> pc5_CE = 9.6 + 2.4 = 12.0
+miniRack_habCE --> pc6_CE = 7.2 + 2.4 = 9.6
+miniRack_habCE --> pc7_CE = 4.8 + 2.4 = 7.2
+miniRack_habCE --> pc8_CE = 4 + 0.8 = 4.8 
+
+miniRack_habCE --> pc9_CE = 19.2
+miniRack_habCE --> pc10_CE = 16.8
+miniRack_habCE --> pc11_CE = 14.4
+miniRack_habCE --> pc12_CE = 12.0
+miniRack_habCE --> pc13_CE = 7.2 + 2.4 = 9.6
+miniRack_habCE --> pc14_CE = 4.8 + 2.4 = 7.2 
+miniRack_habCE --> pc15_CE = 4 + 0.8 = 4.8 
+
+miniRack_habCE --> cam1_CE = 24.2 + 13.9 = 38.1
+miniRack_habCE --> cam2_CE = 4.4
+miniRack_habCE --> cam3_CE = 8.9
+
+
+
+habitación Sala de Control de Calidad y Pruebas :
+
+
+
+RACK --> miniRack_habCCP = 1.6 + 10.6 + 3.1 + 4.9 + 2.6 + 2.7 + 2.6 + 5.6 + 0.8 = 34.5
+
+miniRack_habCCP --> pc1_CCP = 1.5 + 2.6 + 1.4 = 5.5
+miniRack_habCCP --> pc2_CCP = 5.5 + 1.4 + 1 = 7.9
+miniRack_habCCP --> pc3_CCP = 7.9 + 1.4 + 1 = 10.3
+miniRack_habCCP --> pc4_CCP = 10.3 + 1.4 + 1 = 12.7
+miniRack_habCCP --> pc5_CCP = 12.7 + 1.4 + 1 = 15.1
+miniRack_habCCP --> pc6_CCP = 15.1 + 1.4 + 1 = 17.5
+miniRack_habCCP --> pc7_CCP = 17.5 + 1.4 + 1 = 19.9
+miniRack_habCCP --> pc8_CCP = 19.9 + 2.6 + 2.66 + 2.6 = 27.76
+
+miniRack_habCCP --> pc9_CCP = 27.76 + 3.2 = 30.96
+miniRack_habCCP --> pc10_CCP = 30.96 + 2.4 = 33.36
+miniRack_habCCP --> pc11_CCP = 33.36 + 1.4 = 34.76
+miniRack_habCCP --> pc12_CCP = 34.76 + 2.4 = 37.16
+
+miniRack_habCCP --> pc13_CCP = 4.7 + 2.6 + 1.4 = 8.7
+miniRack_habCCP --> pc14_CCP = 8.7 + 1.4 = 10.1
+miniRack_habCCP --> pc15_CCP = 10.1 + 1.4 + 1.4 = 11.5
+
+miniRack_habCCP --> pc16_CCP = 11 + 4 + 2.6 + 1.4 = 19
+miniRack_habCCP --> pc17_CCP = 19 + 2.4 = 11.5
+miniRack_habCCP --> pc18_CCP = 21.4 + 2.4 = 23.8
+miniRack_habCCP --> pc19_CCP = 23.8 + 2.4 = 26.2
+miniRack_habCCP --> pc20_CCP = 26.2 + 2.4 = 28.6
+miniRack_habCCP --> pc21_CCP = 28.6 + 2.4 = 31
+miniRack_habCCP --> pc22_CCP = 31 + 2.4 = 33.4
+
+miniRack_habCCP --> imp1_CCP = 11.5 + 0.9 = 12.4
+miniRack_habCCP --> imp2_CCP = 7.9 + 0.8 = 8.7
+miniRack_habCCP --> imp3_CCP = 15.1 + 0.8 = 15.9
+miniRack_habCCP --> imp4_CCP = 30.96 + 0.8 = 31.76
+miniRack_habCCP --> imp5_CCP = 34.76 + 0.8 = 35.56
+miniRack_habCCP --> imp6_CCP = 11.5 + 0.8 = 12.3
+miniRack_habCCP --> imp7_CCP = 26.2 + 0.8 = 27
+
+miniRack_habCCP --> cam1_CCP = 1.3
+miniRack_habCCP --> cam2_CCP = 27.76 + 2.6
+miniRack_habCCP --> cam3_CCP = 23.8 + 0.6 + 2.6 = 27
+
+
+
+habitación Oficina de Proyectos:
+
+
+
+RACK --> miniRack_habOP = 1.6 + 10.6 + 3.1 + 4.9 + 2.6 + 2.7 + 2.6 + 5.6 + 11 + 0.13 + 1 = 45.23
+
+
+miniRack_habOP --> note7_OP = 0.13 + 2.6 = 3.73
+miniRack_habOP --> note6_OP = 3.73 + 0.8 = 4.53
+miniRack_habOP --> note5_OP = 4.53 + 0.8 = 5.33
+miniRack_habOP --> note4_OP = 5.33 + 0.8 = 6.13
+miniRack_habOP --> note3_OP = 6.13 + 0.8 = 6.93
+miniRack_habOP --> note2_OP = 6.93 + 0.8 = 7.73
+miniRack_habOP --> note1_OP = 7.73 + 0.8 = 8.53
+
+miniRack_habOP --> imp1_OP =  8.53 + 0.7 = 9.23
+miniRack_habOP --> imp2_OP =  9.23 + 0.6 = 9.83
+
+miniRack_habOP --> imp3_OP =  0.13 + 1.5 = 1.63
+miniRack_habOP --> imp4_OP =  1.63 + 0.65 = 2.28
+miniRack_habOP --> imp5_OP =  2.28 + 0.65 = 2.93
+miniRack_habOP --> imp6_OP =  2.93 + 0.65 = 3.58
+miniRack_habOP --> imp7_OP =  3.58 + 0.65 = 4.23
+miniRack_habOP --> imp8_OP =  4.23 + 0.65 = 4.88
+miniRack_habOP --> imp9_OP =  4.88 + 0.65 = 5.53
+miniRack_habOP --> imp10_OP =  5.53 + 0.65 = 6.18
+miniRack_habOP --> imp11_OP =  6.18 + 0.65 = 6.83
+miniRack_habOP --> imp12_OP =  6.83 + 0.65 = 7.48
+miniRack_habOP --> imp13_OP =  7.48 + 0.65 = 8.13
+miniRack_habOP --> imp14_OP =  8.13 + 0.65 = 8.78
+miniRack_habOP --> imp15_OP =  8.78 + 0.65 = 9.43
+
+miniRack_habOP --> cam1_OP =  0.13 + 1.7 = 1.83
+miniRack_habOP --> cam2_OP =  0.13 + 2 + 4.4 = 6.53
+miniRack_habOP --> cam3_OP = 9.43 + 1.5
+
+
+habitación Area de Recreación:
+
+
+miniRack_habOP --> pc1_AR = 3.3 + 0.13 + 1.4 + 2.6 + 1.4 = 8.83
+miniRack_habOP --> pc2_AR = 8.83 + 2.4 = 11.23
+miniRack_habOP --> pc3_AR = 11.23 + 2.4 = 13.63
+miniRack_habOP --> pc4_AR = 13.63 + 2.4 = 16.03
+miniRack_habOP --> pc5_AR = 16.03 + 2.4 = 18.43
+miniRack_habOP --> pc6_AR = 18.43 + 2.4 = 20.83
+miniRack_habOP --> pc7_AR = 20.83 + 2.4 = 23.23
+miniRack_habOP --> pc8_AR = 23.23 + 2.4 = 25.63
+
+miniRack_habOP --> imp1_AR = 8.83 + 0.8 = 9.63
+miniRack_habOP --> imp2_AR = 11.23 + 0.8 = 12.03
+miniRack_habOP --> imp3_AR = 13.63 + 0.8 = 14.43
+miniRack_habOP --> imp4_AR = 16.03 + 0.8 = 16.83
+miniRack_habOP --> imp5_AR = 18.43 + 0.8 = 19.23
+miniRack_habOP --> imp6_AR = 20.83 + 0.8 = 21.63
+miniRack_habOP --> imp7_AR = 23.23 + 0.8 = 24.03
+
+miniRack_habOP --> cam1_AR = 3.3 + 0.13 + 25 + 1.2 = 29.63
+miniRack_habOP --> cam2_AR = 3.3 + 0.13 + 25 + 1.2 = 29.63
+miniRack_habOP --> cam3_AR = 29.63 + 22.7 = 52.33
+
+
+habitación Oficina del CEO o Dirección Ejecutiva:
+
+
+RACK --> miniRack_habCEO = 1.6 + 10.6 + 3.1 + 4.9 + 2.6 + 2.7 + 2.6 + 5.6 + 0.13 + 11 + 0.13 + 2.4 + 25 + 0.13 + 2 + 0.8 = 75.29
+
+miniRack_habCEO --> pc1_CEO = 5.25 + 1.6 = 6.85
+miniRack_habCEO --> pc2_CEO = 2.6 + 2.65 = 5.25
+miniRack_habCEO --> pc3_CEO = 2.6 + 1.4 = 4
+miniRack_habCEO --> pc4_CEO: 4 + 1.6 = 5.6
+miniRack_habCEO --> pc5_CEO: 5.6 + 2.4 = 8
+miniRack_habCEO --> pc6_CEO: 8 + 1.6 = 9.6
+miniRack_habCEO --> pc7_CEO: 9.6 + 2.4 = 12
+miniRack_habCEO --> pc8_CEO: 12 + 1.6 = 13.6
+miniRack_habCEO --> pc9_CEO: 13.6 + 2.4 = 16
+miniRack_habCEO --> pc10_CEO: 16 + 1.6 = 17.6
+miniRack_habCEO --> pc11_CEO: 17.6 + 2.4 = 20
+miniRack_habCEO --> pc12_CEO: 20 + 1.6 = 21.6
+miniRack_habCEO --> pc13_CEO: 21.6 + 2.4 = 24
+miniRack_habCEO --> pc14_CEO: 24 + 1.6 = 25.6
+
+miniRack_habCEO --> pc15_CEO: 25.6 + 1.2 + 5 + 2.6 = 34.4
+miniRack_habCEO --> pc16_CEO = 34.4 + 1.6 = 36
+miniRack_habCEO --> pc17_CEO = 36 + 2.4 = 38.4
+miniRack_habCEO --> pc18_CEO = 38.4 + 1.6 = 40
+miniRack_habCEO --> pc19_CEO = 40 + 2.4 = 42.4
+miniRack_habCEO --> pc20_CEO = 42.4 + 1.6 = 44
+miniRack_habCEO --> pc21_CEO = 44 + 2.4 = 46.4
+miniRack_habCEO --> pc22_CEO = 46.4 + 1.6 = 48
+miniRack_habCEO --> pc23_CEO = 48 + 2.4 = 50.4
+miniRack_habCEO --> pc24_CEO = 50.4 + 1.6 = 52
+miniRack_habCEO --> pc25_CEO = 52 + 2.4 = 54.4
+miniRack_habCEO --> pc26_CEO = 54.4 + 1.6 = 56
+miniRack_habCEO --> pc27_CEO = 56 + 2.4 = 58.4
+miniRack_habCEO --> pc28_CEO = 58.4 + 1.6 = 60
+
+miniRack_habCEO --> imp1_CEO = 5.6 + 0.8 = 6.4
+miniRack_habCEO --> imp2_CEO = 9.6 + 0.8 = 10.4
+miniRack_habCEO --> imp3_CEO = 13.6 + 0.8 = 14.4
+miniRack_habCEO --> imp4_CEO = 17.6 + 0.8 = 18.4
+miniRack_habCEO --> imp5_CEO = 21.6 + 0.8 = 22.4
+miniRack_habCEO --> imp6_CEO = 38.4 + 0.8 = 39.2
+miniRack_habCEO --> imp7_CEO = 42.4 + 0.8 = 43.2
+miniRack_habCEO --> imp8_CEO = 46.4 + 0.8 = 47.2
+miniRack_habCEO --> imp9_CEO = 50.4 + 0.8 = 51.2
+miniRack_habCEO --> imp10_CEO = 54.4 + 0.8 = 55.2
+
+miniRack_habCEO --> cam1_CEO = 25.6 + 1.2 + 2.5 + 2.6 = 31.9
+miniRack_habCEO --> cam2_CEO = 14.4 + 2.6 = 17
+miniRack_habCEO --> cam3_CEO = 13.7 + 1.3 = 15
+
+
+habitación Sala de Diseño UX/UI:
+
+
+RACK --> miniRack_habUX = 1.6 + 3.33 + 25.9 + 0.8 = 31.63
+
+
+miniRack_habUX --> pc1_UX = 2.6
+miniRack_habUX --> pc2_UX = 2.6 + 2 = 4.6
+miniRack_habUX --> pc3_UX = 4.6 + 2 = 6.6
+miniRack_habUX --> pc4_UX = 6.6 + 2 = 8.6
+miniRack_habUX --> pc5_UX = 8.6 + 2 = 10.6
+miniRack_habUX --> pc6_UX = 10.6 + 2 = 12.6
+miniRack_habUX --> pc7_UX = 12.6 + 2 = 14.6
+miniRack_habUX --> pc8_UX = 14.6 + 2 = 16.6
+
+miniRack_habUX --> imp1_UX = 2.6 + 0.6 = 3.2
+miniRack_habUX --> imp2_UX = 4.6 + 0.6 = 5.2
+miniRack_habUX --> imp3_UX = 6.6 + 0.6 = 7.2
+miniRack_habUX --> imp4_UX = 8.6 + 0.6 = 9.2
+miniRack_habUX --> imp5_UX = 10.6 + 0.6 = 11.2
+miniRack_habUX --> imp6_UX = 12.6 + 0.6 = 13.2
+miniRack_habUX --> imp7_UX = 14.6 + 0.6 = 15.2
+
+miniRack_habUX --> cam1_UX = 16.6 + 6 = 22.6
+miniRack_habUX --> cam2_UX = 4.16
+miniRack_habUX --> cam3_UX = 23.7 + 5 = 28.7
+
+
+
+habitación Área de Desarrollo de Software
+
+
+
+
+miniRack_habUX --> pc1_ADS = 4.1 + 1.4 + 0.7 + 2.6 + 1.5 = 10.3
+miniRack_habUX --> pc2_ADS = 10.3 + 2 = 12.3
+miniRack_habUX --> pc3_ADS = 12.3 + 2 = 14.3
+miniRack_habUX --> pc4_ADS = 14.3 + 2 = 16.3
+miniRack_habUX --> pc5_ADS = 16.3 + 2 = 18.3
+miniRack_habUX --> pc6_ADS = 18.3 + 2 = 20.3
+
+
+miniRack_habUX --> imp1_ADS = 4.1 + 1.4 + 0.7 = 6.2
+miniRack_habUX --> imp2_ADS = 6.2 + 2 = 8.2
+miniRack_habUX --> imp3_ADS = 8.2 + 2 = 10.2
+miniRack_habUX --> imp4_ADS = 10.2 + 2 = 12.2
+miniRack_habUX --> imp5_ADS = 12.2 + 2 = 14.2
+miniRack_habUX --> imp6_ADS = 14.2 + 2 = 16.2
+miniRack_habUX --> imp7_ADS = 16.2 + 2 = 18.2
+
+
+miniRack_habUX --> imp1_ADS = 4.1 + 3 + 0.6 + 1 = 8.7
+miniRack_habUX --> imp2_ADS = 8.7 + 0.45 = 9.15
+miniRack_habUX --> imp3_ADS = 9.15 + 0.45 = 9.6
+miniRack_habUX --> imp4_ADS = 9.6 + 0.45 = 10.05
+
+miniRack_habUX --> imp5_ADS = 8.7 + 0.45 = 9.15
+miniRack_habUX --> imp6_ADS = 9.15 + 0.45 = 9.6
+miniRack_habUX --> imp7_ADS = 9.6 + 0.45 = 10.05
+miniRack_habUX --> imp8_ADS = 10.05 + 0.45 = 10.5
+-
+miniRack_habUX --> cam1_ADS = 4.1 + 1.4 + 0.7 = 6.2
+miniRack_habUX --> cam2_ADS = 9.6 + 0.45 = 10.05
+miniRack_habUX --> cam3_ADS = 4.1 + 7.2 + 7.3 = 18.6
+
+
+
+habitación Sala de Almacenamiento de Datos
+
+
+RACK --> miniRack_habAlmD = 1.6 + 16 + 1.9 + 25.6 + 0.8 = 45.9
+
+miniRack_habAlmD --> pc1_AlmD = 2.6
+miniRack_habAlmD --> pc2_AlmD = 2.6 + 1.6 = 4.2
+miniRack_habAlmD --> pc3_AlmD = 4.2 + 2.4 = 6.6
+miniRack_habAlmD --> pc4_AlmD = 6.6 + 1.6 = 8.2
+miniRack_habAlmD --> pc5_AlmD = 8.2 + 2.4 = 10.6
+miniRack_habAlmD --> pc6_AlmD = 10.6 + 1.6 = 12.2
+miniRack_habAlmD --> pc7_AlmD = 12.2 + 2.4 = 14.6
+miniRack_habAlmD --> pc8_AlmD = 14.6 + 1.6 = 16.2
+miniRack_habAlmD --> pc9_AlmD = 16.2 + 2.4 = 18.6
+miniRack_habAlmD --> pc10_AlmD = 18.6 + 1.6 = 20.2
+miniRack_habAlmD --> pc11_AlmD = 20.2 + 2.4 = 22.6
+miniRack_habAlmD --> pc12_AlmD = 22.6 + 1.6 = 24.2
+miniRack_habAlmD --> pc13_AlmD = 24.2 + 2.4 = 26.6
+miniRack_habAlmD --> pc14_AlmD = 26.6 + 1.6 = 28.2
+miniRack_habAlmD --> pc15_AlmD = 28.2 + 2.4 = 30.6
+
+miniRack_habAlmD --> imp1_AlmD = 2.6 + 2.2 = 4.8
+miniRack_habAlmD --> imp2_AlmD = 2.6 + 0.8 = 3.4
+miniRack_habAlmD --> imp3_AlmD = 6.6 + 0.8 = 7.4
+miniRack_habAlmD --> imp4_AlmD = 10.6 + 0.8 = 11.4
+miniRack_habAlmD --> imp5_AlmD = 14.6 + 0.8 = 15.4
+miniRack_habAlmD --> imp6_AlmD = 18.6 + 0.8 = 19.4
+miniRack_habAlmD --> imp7_AlmD = 22.6 + 0.8 = 23.4
+miniRack_habAlmD --> imp8_AlmD = 26.6 + 0.8 = 27.4
+
+miniRack_habAlmD --> cam1_AlmD = 30.6 + 2.6 = 33.2
+miniRack_habAlmD --> cam2_AlmD = 4.8 + 2.6 = 7.4
+miniRack_habAlmD --> cam3_AlmD = 7.4 + 1.9 + 5.1 = 14.4
+
+
+
+habitación Sala de Archivo Seguro 
+
+
+
+RACK --> miniRack_AS =  1.6 + 10.6 + 3.1 + 4.9 + 2.6 + 2.7 + 2.6 + 5.6 + 11 + 0.13 + 2.6 + 23 + 0.13 + 0.6 + 0.8 = 71.96
+
+miniRack_AS --> pc1_AS = 2.1 + 2.6 + 1.4 = 6.1
+miniRack_AS --> pc2_AS = 6.1 + 2.4 = 8.5
+miniRack_AS --> pc3_AS = 8.5 + 2.4 = 10.9
+miniRack_AS --> pc4_AS = 10.9 + 2.4 = 13.3
+
+miniRack_AS --> pc5_AS = 6.1 + 0.7 = 6.8
+miniRack_AS --> pc6_AS = 8.5 + 2.4 = 10.9
+
+miniRack_AS --> pc7_AS = 2.1 + 2.6 + 1.4 = 6.1
+miniRack_AS --> pc8_AS = 6.1 + 2.4 = 8.5
+miniRack_AS --> pc9_AS = 8.5 + 2.4 = 10.9
+miniRack_AS --> pc10_AS = 10.9 + 2.4 = 13.3
+
+miniRack_AS --> imp1_AS = 6.1 + 0.8 = 6.9
+miniRack_AS --> imp2_AS = 6.9 + 0.8 = 7.7
+miniRack_AS --> imp3_AS = 7.7 + 0.8 = 8.5
+
+miniRack_AS --> imp4_AS = 6.8 + 0.8 = 7.6
+miniRack_AS --> imp5_AS = 10.9 + 0.8 = 11.7
+
+miniRack_AS --> cam1_AS = 8.5 + 0.8 + 2.6 = 11.9
+miniRack_AS --> cam2_AS = 13.3 + 2.6 + 1.44 + 12.7 = 11.9
+miniRack_OP --> cam3_AS = 2.9
+
+
+

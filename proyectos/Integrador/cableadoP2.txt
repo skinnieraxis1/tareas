@@ -1,0 +1,153 @@
+Piso 2:
+
+habitación Tesoreria :
+
+RACK --> miniRack_habT = 1.6 + 5.6 + 8.2 + 2.9 + 2.8
+
+
+miniRack_habT --> pc1_T = 12 + 2.4 = 14.4
+miniRack_habT --> pc2_T = 9.6 + 2.4 = 12
+miniRack_habT --> pc3_T = 7.2 + 2.4 = 9.6
+miniRack_habT --> pc4_T = 4.8 + 2.4 = 7.2
+miniRack_habT --> pc5_T = 2.6 + 2.2 = 4.8
+
+miniRack_habT --> pc6_T = 12 + 2.4 = 14.4
+miniRack_habT --> pc7_T = 9.6 + 2.4 = 12
+miniRack_habT --> pc8_T = 7.2 + 2.4 = 9.6
+miniRack_habT --> pc9_T = 4.8 + 2.4 = 7.2
+miniRack_habT --> pc10_T = 2.6 + 2.2 = 4.8
+
+miniRack_habT --> pc11_T = 15.3 + 2.4 = 17.7
+miniRack_habT --> pc12_T = 12.9 + 2.4 = 15.3
+miniRack_habT --> pc13_T = 10.5 + 2.4 = 12.9
+miniRack_habT --> pc14_T = 8.1 + 2.4 = 10.5
+miniRack_habT --> pc15_T = 3.3 + 2.6 + 2.2 = 8.1
+
+miniRack_habT --> pc16_T = 15.3 + 2.4 = 17.7
+miniRack_habT --> pc17_T = 12.9 + 2.4 = 15.3
+miniRack_habT --> pc18_T = 10.5 + 2.4 = 12.9
+miniRack_habT --> pc19_T = 8.1 + 2.4 = 10.5
+miniRack_habT --> pc20_T = 3.3 + 2.6 + 2.2 = 8.1
+
+miniRack_habT --> pc21_T = 15.3 + 2.4 = 17.7
+miniRack_habT --> pc22_T = 12.9 + 2.4 = 15.3
+miniRack_habT --> pc23_T = 10.5 + 2.4 = 12.9
+miniRack_habT --> pc24_T = 8.1 + 2.4 = 10.5
+miniRack_habT --> pc25_T = 3.3 + 2.6 + 2.2 = 8.1
+
+miniRack_habT --> pc26_T = 15.3 + 2.4 = 17.7
+miniRack_habT --> pc27_T = 12.9 + 2.4 = 15.3
+miniRack_habT --> pc28_T = 10.5 + 2.4 = 12.9
+miniRack_habT --> pc29_T = 8.1 + 2.4 = 10.5
+miniRack_habT --> pc30_T = 3.3 + 2.6 + 2.2 = 8.1
+
+miniRack_habT --> imp1_T = 10.5 + 0.8 = 11.3
+miniRack_habT --> imp2_T = 10.5 + 0.8 = 11.3
+
+
+
+
+habitación Sala de Reuniones  :
+
+
+
+
+RACK --> miniRack_habR = 1.6 + 10.6 + 3.1 + 4.9 + 2.6 + 2.7 + 2.6 + 6.25 + 2 + 2.8 = 39.15
+
+miniRack_habT --> pc1_R = 7.2 + 2.4 = 9.6
+miniRack_habT --> pc2_R = 4.8 + 2.4 = 7.2
+miniRack_habT --> pc3_R = 2.6 + 2.2 = 4.8
+
+miniRack_habT --> pc4_R = 7.2 + 2.4 = 9.6
+
+miniRack_habT --> pc5_R = 9.6 + 3 = 12.6
+miniRack_habT --> pc6_R = 12.6 + 2.4 = 15
+miniRack_habT --> pc7_R = 15 + 2.4 = 17.4
+
+miniRack_habT --> pc8_R = 17.4 + 1.4 + 2.8 = 21.6
+
+miniRack_habT --> pc9_R = 21.6 + 1.45 + 2.6 = 25.65
+miniRack_habT --> pc10_R = 25.65 + 2.4 = 21.6
+miniRack_habT --> pc11_R = 25.65 + 2.4 = 28.05
+miniRack_habT --> pc12_R = 28.05 + 2.4 = 30.45
+miniRack_habT --> pc13_R = 30.45 + 2.4 = 32.85
+miniRack_habT --> pc14_R = 32.85 + 2.4 = 35.25
+miniRack_habT --> pc15_R = 35.25 + 2.4 = 37.65
+miniRack_habT --> pc16_R = 37.65 + 2.4 = 40.05
+
+
+miniRack_habT --> imp1_R = 9.6 + 0.8 = 10.4
+miniRack_habT --> imp2_R = 4.8 + 0.8 = 5.6
+miniRack_habT --> imp1_R = 15 + 0.8 = 15.8
+miniRack_habT --> imp1_R = 17.4 + 1.4 + 1.3 = 20.1
+miniRack_habT --> imp1_R = 28.05 + 0.8 = 28.85
+miniRack_habT --> imp1_R = 35.25 + 0.8 = 36.05
+miniRack_habT --> imp1_R = 40.05 + 0.8 = 40.85
+
+miniRack_habT --> cam1_R = 20.1 + 0.8 + 2.6
+miniRack_habT --> cam1_R = 26.6 + 11 = 37.6
+miniRack_habT --> cam1_R = 37.6 + 18.2 = 55.8
+
+
+
+
+habitación Sala de Conferencias :
+
+
+
+
+RACK --> miniRack_habSC = 1.6 + 10.6 + 1.9 + 19.2 + 2.2 + 2.8 + 0.13 + 9.3 + 21 = 51
+
+miniRack_habSC --> pc1_SC = 2.6 + 4.5 + 3.1 = 10.2
+miniRack_habSC --> pc2_SC = pc1_SC + 2.4 = 10.2 + 2.4 = 12.6
+miniRack_habSC --> pc3_SC = 15.0
+miniRack_habSC --> pc4_SC = 17.4
+miniRack_habSC --> pc5_SC = 19.8
+miniRack_habSC --> pc6_SC = 22.2
+miniRack_habSC --> pc7_SC = 24.6
+miniRack_habSC --> pc8_SC = 27.0
+miniRack_habSC --> pc9_SC = 29.4
+miniRack_habSC --> pc10_SC = 31.8
+
+miniRack_habSC --> pc11_SC = 2.6 + 3.1 = 5.7
+miniRack_habSC --> pc12_SC = pc11_SC + 2.4 = 5.7 + 2.4 = 8.1
+miniRack_habSC --> pc13_SC = 10.5
+miniRack_habSC --> pc14_SC = 12.9
+miniRack_habSC --> pc15_SC = 15.3
+miniRack_habSC --> pc16_SC = 17.7
+miniRack_habSC --> pc17_SC = 20.1
+miniRack_habSC --> pc18_SC = 22.5
+miniRack_habSC --> pc19_SC = 24.9
+miniRack_habSC --> pc20_SC = 27.3
+
+miniRack_habSC --> pc21_SC = 2.6 + 3.1 = 5.7
+miniRack_habSC --> pc22_SC = pc21_SC + 2.4 = 5.7 + 2.4 = 8.1
+miniRack_habSC --> pc23_SC = 10.5
+miniRack_habSC --> pc24_SC = 12.9
+miniRack_habSC --> pc25_SC = 15.3
+miniRack_habSC --> pc26_SC = 17.7
+miniRack_habSC --> pc27_SC = 20.1
+miniRack_habSC --> pc28_SC = 22.5
+miniRack_habSC --> pc29_SC = 24.9
+miniRack_habSC --> pc30_SC = 27.3
+
+miniRack_habSC --> pc31_SC = 2.6 + 4.5 + 3.1 = 10.2
+miniRack_habSC --> pc32_SC = pc31_SC + 2.4 = 10.2 + 2.4 = 12.6
+miniRack_habSC --> pc33_SC = 15.0
+miniRack_habSC --> pc34_SC = 17.4
+miniRack_habSC --> pc35_SC = 19.8
+miniRack_habSC --> pc36_SC = 22.2
+miniRack_habSC --> pc37_SC = 24.6
+miniRack_habSC --> pc38_SC = 27.0
+miniRack_habSC --> pc39_SC = 29.4
+miniRack_habSC --> pc40_SC = 31.8
+
+miniRack_habSC --> pc41_SC = pc20_SC + 2.9 = 27.3 + 2.9 = 30,2
+miniRack_habSC --> pc42_SC = pc30_SC + 2.9 = 27.3 + 2.9 = 30,2
+
+miniRack_habSC --> imp_SC = pc15_SC + 0.8 = 15.3 + 0.8 = 16,1
+
+
+
+
+

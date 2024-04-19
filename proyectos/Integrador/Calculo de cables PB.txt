@@ -1,0 +1,248 @@
+PB Total=4,574.52
+Sala de control de acceso=443.47
+Rack a MiniRack1=2+0.12+2.9+24= 29.02
+Minirack1 a pc1= 2+0.85 = 2.85
+Minirack1 a pc2= 2+1.55 = 3.55
+Minirack1 a pc3= 2+3.9 = 5.9
+Minirack1 a pc4= 2+6.4=8.4
+Minirack1 a pc5= 2+8.8=10.8
+Minirack1 a pc6= 2+3.25=5.25
+Minirack1 a pc7= 2+5.75=7.75
+Minirack1 a pc8= 2+8+1.3=11.3
+Minirack1 a pc9= 2.8+8+3.25+2.3+=16.35
+Minirack1 a pc10= 2.8+8+3.25+4.6=18.65
+Minirack1 a pc11= 2.8+8+3.25+7.2=21.25
+Minirack1 a pc12= 2.8+8+3.25+9.6=23.65
+Minirack1 a pc13= 2.8+8+3.25+12=26.05
+Minirack1 a pc14= 2.8+8+3.25+14.4=28.45
+Minirack1 a pc15= 2.8+8+3.25+16.9=30.95
+Minirack1 a imp1= 2+3.2 =5.2
+Minirack1 a imp2= 2+8.2 =10.2
+Minirack1 a imp3= 2+1.6 =3.6
+Minirack1 a imp4= 2+6.4 =8.4
+Minirack1 a imp5= 2.8+8+3.25+1.6 =15.65
+Minirack1 a imp6= 2.8+8+3.25+6.4 =20.45
+Minirack1 a imp7= 2.8+8+3.25+11.3 =25.35
+Minirack1 a imp8= 2.8+8+3.25+16 =30.05
+Minirack1 a cam 1= 8+0.3=8.3
+Minirack1 a cam 2= 8+9.6=17.6
+Minirack1 a cam 3= 8+10+30.5=48.5
+
+Seguridad= 107.12
+Rack a Minirack2= 2+0.12+2.9+9+5 =19.02
+Minirack2 a pc1= 2+0.1 =2.1
+Minirack2 a pc1= 2+2 =4
+Minirack2 a pc1= 2+2.2 =4.2
+Minirack2 a pc1= 2+4.2 =6.2
+Minirack2 a imp1= 2+1.3 =3.3
+Minirack2 a imp2= 2+2.7 =4.7
+Minirack2 a cam1= 8.2
+Minirack2 a cam2= 4.9+0.5 =5.4
+Minirack2 a cam3= 10+40 =50
+
+Desarrollo de software= 248.32
+Rack a Minirack3= 2+0.12+2.9+9+5+10+1.1+7+6+7=50.12
+Minirack3 a pc1= 2+0.1 =2.1
+Minirack3 a pc2= 2+2.4 =4.4
+Minirack3 a pc3= 2+4.8 =6.8
+Minirack3 a pc4= 2+2.6 =4.6
+Minirack3 a pc5= 2+4.8 =6.8
+Minirack3 a pc6= 2+7.3 =9.3
+Minirack3 a imp1= 2+1.6 =3.6
+Minirack3 a imp2= 2+ 4.2 =6.2
+Minirack3 a imp3= 2+0.8 =2.8
+Minirack3 a imp4= 2+3.3 =5.3
+Minirack3 a imp5= 2+5.6 =7.6
+Minirack3 a imp6= 2+8+6+5.8 =21.8
+Minirack3 a imp7= 2+8+6+6.4 =22.4
+Minirack3 a imp8= 2+8+6+7 =23
+Minirack3 a imp9= 2+8+6+7.6 =23.6
+Minirack3 a imp10= 2+8+6+8.2 =24.2
+Minirack3 a cam1= 7.6
+Minirack3 a cam2= 6.4
+Minirack3 a cam3= 8+6+7.1 =21.1
+
+Oficina de administración=635.12
+Rack a Minirack4= 2+0.12+2.9+9+5+10+1.1+7+6+7+12=62.12
+Minirack4 a pc1= 2+0.3 =2.3
+Minirack4 a pc2= 2+2.2 =4.2
+Minirack4 a pc3= 2+4.8 =6.8
+Minirack4 a pc4= 2+7 =9
+Minirack4 a pc5= 2+9.4 =11.4
+Minirack4 a pc6= 2+12+2.6 =16.6
+Minirack4 a pc7= 2+12+6.4 =20.4
+Minirack4 a pc8= 2+12+10+1.9 =25.9
+Minirack4 a pc9= 2+12+10+4.3 =28.3
+Minirack4 a pc10= 2+12+10+6.7 =30.7
+Minirack4 a pc11= 2+12+10+9 =33
+Minirack4 a pc12= 2+12+10+11.4 =35.4
+Minirack4 a pc13= 2+2.6 =4.6
+Minirack4 a pc14= 2+5 =7
+Minirack4 a pc15= 2+7.3 =9.3
+Minirack4 a pc16= 2+9.9 =11.9
+Minirack4 a pc17= 2+12.2 =14.2
+Minirack4 a pc18= 2+13+3 =18
+Minirack4 a pc19= 2+13+5.4 =20.4
+Minirack4 a pc20= 2+13+7.7 =22.7
+Minirack4 a pc21= 2+13+10+1.7 =26.7
+Minirack4 a pc22= 2+13+10+4 =29
+Minirack4 a pc23= 2+13+10+6.4 =31.4
+Minirack4 a pc24= 2+13+10+8.8 =33.8
+Minirack4 a pc25= 2+13+10+11.2 =36.2
+Minirack4 a cam1= 13+0.4 =13.4
+Minirack4 a cam2= 13+9.6 =22.6
+Minirack4 a cam3= 11.7 
+Minirack4 a imp1= 13+4.6 =17.6
+Minirack4 a imp2= 13+5.5 =18.5
+
+Sala de vigilancia y monitoreo=774.52
+Rack a MiniRack5=2+0.12+2.9+24+2.1= 31.12
+Minirack5 a pc1= 2+0.8 =2.8
+Minirack5 a pc2= 2+1.6 =3.6
+Minirack5 a pc3= 2+4 =6
+Minirack5 a pc4= 2+3.4 =5.4
+Minirack5 a pc5= 2+5.6 =7.4
+Minirack5 a pc6= 2+7.8 =9.8
+Minirack5 a pc7= 2+8+3+0.8+0.3 =14.1
+Minirack5 a pc8= 2+8+3+0.8+2.2 =16
+Minirack5 a pc9= 2+8+3+0.8+4.6 =18.4
+Minirack5 a pc10= 2+8+3+0.8+7.1 =20.9
+Minirack5 a pc11= 2+8+3+0.8+9.6 =23.4
+Minirack5 a pc12= 2+8+3+0.8+11.9 =25.7
+Minirack5 a pc13= 2+8+3.7+0.8+0.3 =14.8
+Minirack5 a pc14= 2+8+3.7+0.8+2.2 =16.7
+Minirack5 a pc15= 2+8+3.7+0.8+4.6 =19.1
+Minirack5 a pc16= 2+8+3.7+0.8+7.1 =21.6
+Minirack5 a pc17= 2+8+3.7+0.8+9.6 =24.1
+Minirack5 a pc18= 2+8+3.7+0.8+11.9 =26.4
+Minirack5 a pc19= 2+8+6.5+0.8+2.2 =19.5
+Minirack5 a pc20= 2+8+6.5+0.8+4.6 =21.9
+Minirack5 a pc21= 2+8+6.5+0.8+7.1 =24.4
+Minirack5 a pc22= 2+8+6.5+0.8+9.6 =26.9
+Minirack5 a pc23= 2+8+6.5+0.8+11.9 =29.2
+Minirack5 a imp1= 2+8+1.8 =11.6
+Minirack5 a imp2= 2+8+3+0.8+3.8 =17.6
+Minirack5 a imp3= 2+8+3+0.8+6.4 =20.2
+Minirack5 a imp4= 2+8+3+0.8+8.8 =22.6
+Minirack5 a imp5= 2+8+3+0.8+11.2 =25
+Minirack5 a imp6= 2+8+3.7+0.8+3.8 =18.3
+Minirack5 a imp7= 2+8+3.7+0.8+6.4 =20.9
+Minirack5 a imp8= 2+8+3.7+0.8+8.8 =23.3
+Minirack5 a imp9= 2+8+3.7+0.8+11.2 =25.7
+Minirack5 a imp10= 2+8+5.3 =15.3
+Minirack5 a cam1= 8+0.4 =8.4
+Minirack5 a cam2= 8+40+0.5 =48.5
+Minirack5 a cam3= 8+40+39.5 =87.5
+
+Sala de control de seguridad=1,073.92
+Rack a Minirack6= 2+0.12+2.9+9+5+10+1.1+7+6+7+14=62.12
+Minirack6 a pc1= 2+0.2 =2.2
+Minirack6 a pc2= 2+2.6 =4.6
+Minirack6 a pc3= 2+4.9 =6.9
+Minirack6 a pc4= 2+7.4 =10.4
+Minirack6 a pc5= 2+9.7 =11.7
+Minirack6 a pc6= 2+12 =14
+Minirack6 a pc7= 2+2.2 =4.2
+Minirack6 a pc8= 2+4.6 =6.6
+Minirack6 a pc9= 2+7 =9
+Minirack6 a pc10= 2+9.4 =11.4
+Minirack6 a pc11= 2+11.8 =13.8
+Minirack6 a pc12= 2+13+0.8+3.8+0.4 =20
+Minirack6 a pc13= 2+13+0.8+3.8+2.8 =22.4
+Minirack6 a pc14= 2+13+0.8+3.8+5.2 =24.8
+Minirack6 a pc15= 2+13+0.8+3.8+7.6 =27.2
+Minirack6 a pc16= 2+13+0.8+3.8+10.1 =29.7
+Minirack6 a pc17= 2+13+0.8+3.8+12.5 =32.1
+Minirack6 a pc18= 2+13+0.8+3.8+14.8 =34.4
+Minirack6 a pc19= 2+13+0.8+3.8+17.2 =36.8
+Minirack6 a pc20= 2+13+0.8+3.8+19.6 =39.2
+Minirack6 a pc21= 2+13+0.8+3.8+22 =41.6
+Minirack6 a pc22= 2+13+0.8+3.8+24.4 =44
+Minirack6 a pc23= 2+13+0.8+4.4+3.6 =23.8
+Minirack6 a pc24= 2+13+0.8+4.4+6 =26.2
+Minirack6 a pc25= 2+13+0.8+4.4+8.4 =28.6
+Minirack6 a pc26= 2+13+0.8+4.4+10.8 =31
+Minirack6 a pc27= 2+13+0.8+4.4+13.2 =33.4
+Minirack6 a pc28= 2+13+0.8+4.4+15.6 =35.8
+Minirack6 a pc29= 2+13+0.8+4.4+17.9 =38.1
+Minirack6 a pc30= 2+13+0.8+4.4+20.4 =40.6
+Minirack6 a pc31= 2+13+0.8+4.4+22.8 =43
+Minirack6 a pc32= 2+13+0.8+4.4+25.8 =46
+Minirack6 a imp1= 2+3.4 =5.4
+Minirack6 a imp2= 2+8.2 =10.2
+Minirack6 a imp3= 2+1.6 =3.6
+Minirack6 a imp4= 2+6.2 =8.2
+Minirack6 a imp5= 2+11 =13
+Minirack6 a imp6= 2+13+0.8+4+1.8 =21.6
+Minirack6 a imp7= 2+13+0.8+4+6.8 =26.6
+Minirack6 a imp8= 2+13+0.8+4+11.6 =31.4
+Minirack6 a imp9= 2+13+0.8+4+16.3 =36.1
+Minirack6 a imp10= 2+13+0.8+4+21.2 =41
+Minirack6 a cam1= 16+0.6 =16.6
+Minirack6 a cam2= 13.6
+Minirack6 a cam3= 14+30 =44
+
+Recepción y area de espera=1,292.05
+Rack a Minirack7= 2+0.12+2.9+9+5+10+1.1+7+6+9=52.12 
+Rack a Minirack8= 2+0.12+2.9+9+5+10+1.1+7+6+12=55.12 
+Minirack7 a pc1= 2+0.1 =2.01
+Minirack7 a pc2= 2+1.8 =3.8
+Minirack7 a pc3= 2+3.6 =5.6
+Minirack7 a pc4= 2+5.4 =7.4
+Minirack7 a pc5= 2+7.2 =9.2
+Minirack7 a pc6= 2+9 =11
+Minirack7 a pc7= 2+1.6 =3.6
+Minirack7 a pc8= 2+3.2 =5.2
+Minirack7 a pc9= 2+5 =7
+Minirack7 a pc10= 2+7 =9
+Minirack7 a pc11= 2+8+2.6+0.8+0.3 =13.7
+Minirack7 a pc12= 2+8+2.6+0.8+2.3 =15.7
+Minirack7 a pc13= 2+8+2.6+0.8+4.2 =17.6
+Minirack7 a pc14= 2+8+2.6+0.8+6.3 =19.7
+Minirack7 a pc15= 2+8+2.6+0.8+8.3 =21.7
+Minirack7 a pc16= 2+8+2.6+0.8+9.6 =23
+Minirack7 a pc18= 2+8+2.6+0.8+13.5 =26.9
+Minirack7 a pc19= 2+8+2.6+0.8+15.5 =28.9
+Minirack7 a pc20= 2+8+2.6+0.8+17.5 =30.9
+Minirack7 a pc21= 2+8+3.2+0.8+1.1 =15.1
+Minirack7 a pc22= 2+8+3.2+0.8+3.2 =17.2
+Minirack7 a pc23= 2+8+3.2+0.8+5.1 =19.1
+Minirack7 a pc24= 2+8+3.2+0.8+7.2 =21.2
+Minirack7 a pc25= 2+8+3.2+0.8+9.2 =23.2
+Minirack7 a pc26= 2+8+3.2+0.8+10.5 =24.5
+Minirack7 a pc27= 2+8+3.2+0.8+12.5 =26.5
+Minirack7 a pc28= 2+8+3.2+0.8+14.4 =28.4
+Minirack7 a pc29= 2+8+3.2+0.8+16.4 =30.4
+Minirack7 a pc30= 2+8+3.2+0.8+18.4 =32.4
+Minirack7 a pc31= 2+8+5.4+0.6 =16
+Minirack7 a pc32= 2+8+5.4+2 =17.4
+Minirack7 a pc33= 2+8+5.4+4 =19.4
+Minirack7 a pc34= 2+8+5.4+5.4 =20.8
+Minirack7 a pc35= 2+8+5.4+8 =23.4
+Minirack7 a pc36= 2+8+5.4+9.4 =24.8
+Minirack7 a pc37= 2+8+5.4+11.7 =27.1
+Minirack7 a pc38= 2+8+5.4+13.1 =28.5
+Minirack7 a pc39= 2+8+5.4+15.8 =31.2
+Minirack7 a pc40= 2+8+5.4+17.3 =32.7
+Minirack7 a cam1= 8+0.4 =8.4
+Minirack7 a cam2= 8+7+10.1 =25.1
+Minirack7 a cam3= 14+0.6=14.6
+Minirack8 a imp1= 2+8+2.6+1.7 =14.3
+Minirack8 a imp2= 2+8+2.6+3.7 =16.3
+Minirack8 a imp3= 2+8+2.6+5.7 =18.3
+Minirack8 a imp4= 2+8+2.6+7.7 =20.3
+Minirack8 a imp5= 2+8+2.6+9.7 =22.3
+Minirack8 a imp6= 2+8+2.6+11.7 =24.3
+Minirack8 a imp7= 2+8+2.6+13.7 =26.3
+Minirack8 a imp8= 2+8+2.6+15.7 =28.3
+Minirack8 a imp9= 2+8+3.2+1.7 =14.9
+Minirack8 a imp10= 2+8+3.2+3.7 =16.9
+Minirack8 a imp11= 2+8+3.2+5.7 =18.9
+Minirack8 a imp12= 2+8+3.2+7.7 =20.9
+Minirack8 a imp13= 2+8+3.2+9.7 =22.9
+Minirack8 a imp14= 2+8+3.2+11.7 =24.9
+Minirack8 a imp15= 2+8+3.2+13.7 =26.9
+
+
+
+
