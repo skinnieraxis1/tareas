@@ -1,0 +1,72 @@
+PREGUNTAS DE REPASO
+1. Compare los procesos de tratar la información como un recurso y tratar a los humanos como 
+un recurso
+  
+   
+
+2. Liste las diferencias entre OAS y KWS.
+3. Defina el significado de MIS.
+4. ¿Cuál es la diferencia entre MIS y DSS?
+5. Defina el término sistemas expertos. ¿Cuál es la diferencia entre los sistemas expertos 
+y los sistemas de soporte de decisiones?
+6. Enliste los problemas de interacción grupal para los cuales se diseñaron los sistemas de 
+soporte de decisiones en grupo (GDSS) y los sistemas de trabajo colaborativo asistido por 
+computadora (CSCWS).
+7. ¿Cuál es el término más general, CSCWS o GDSS? Explique.
+8. Defina el término comercio-m.
+9. Liste las ventajas de montar aplicaciones en la Web.
+
+  - Un mayor numero de usuarios
+  - Usuarios pueden ingresar las 24 horas del dia
+  - Es una buena oportunidad para mejorar la interfaz
+  - Se puede expandir el alcance a escala global y no solo el una local
+
+10. ¿Cuál es la razón dominante para diseñar sistemas empresariales (o ERP)?
+
+  Sobretodo la razón es que de esta forma los que toman las decisiones puedan acceder a 
+  mayor información asi de esta manera se pueden prevenir potenciales beneficios para su 
+  posterior uso. 
+  Es algo organizativo y administrativo para poseer un mayor control de la diferente 
+  información que posee la empresa.
+
+11. Proporcione un ejemplo de un proyecto de software de código fuente abierto.
+
+  Aplicaciones de proyectos tales como blender o visual son de codigo abierto. Tambien 
+  sistemas operativos como linux, diferente a Windows o MAC con un sistema de codigo cerrado
+
+12. Liste las ventajas de utilizar las técnicas de análisis y diseño de sistemas para 
+trabajar con los sistemas de información computarizados para empresas.
+
+  De esta forma uno puede garantizar una buena implementación del sistema y asegurarse que 
+  todos los clientes, tanto actuales como futuros, queden satisfechos y puedan lograr su 
+  objetivo con la aplicacion. Esto se logra analizando detalladamente para identificar y 
+  resolver el problema del cliente 
+
+13. Liste tres roles que el analista de sistemas debe desempeñar. Proporcione una definición 
+para cada uno de ellos.
+
+  consultor, experto de soporte y agente de cambios:
+
+  - Consultor: Se usa para analisar y consultar lo que dicte la persona o empresa, se suele 
+  utilizar para lidiar con problemas en los sistemas de información. Se divide en:
+
+    - Interno: Que ya esta dentro de la empresa y revisa algo que ya conoce
+    - Externo: Uno que viene de afuera que no conoce el sistema pero puede tener ideas
+    innovadoras
+
+  - Experto de soporte: Se suele usar como soporte para un departamento, generando pequeños
+  cambios o desiciones. No se usa para administrar el proyecto si no como recurso para el
+  que lo haga
+
+  - Agente de cambio: Este 
+
+14. ¿Qué cualidades personales son útiles para el analista de sistemas? Haga una lista.
+15. Liste y defina brevemente las siete fases del ciclo de vida del desarrollo de sistemas 
+(SDLC).
+16. ¿Para qué se utilizan las herramientas CASE?
+17. ¿Cuál es la diferencia entre las herramientas CASE superiores e inferiores?
+18. Defina qué significa la metodología ágil.
+19. ¿Cuál es el significado de la frase “el juego de planeación”?
+20. ¿Cuáles son las etapas en el desarrollo ágil?
+21. Defina el término análisis y diseño orientado a objetos.
+22. ¿Qué es UML?
