@@ -2,18 +2,84 @@ PREGUNTAS DE REPASO
 1. Compare los procesos de tratar la información como un recurso y tratar a los humanos como 
 un recurso
   
-   
+  El proceso de la información como recurso es mas bien un proceso contable, ya sea la 
+  cantidad de stock que tenemos, como a quien le damos cada cosa. De esta manera es un 
+  proceso que nos da mas caminos para resolver un problema, es un recurso no contable, ¿porque
+  si dijimos que es algo contable no se puede contar la cantidad? porque es contable ya que
+  debemos tener un inventario de lo que tenemos y el como esto interactua con nuestras 
+  actividades. Pero no podemos ver la cantidad de información que tenemos, simplemente tenemos
+  la información de nuestras actividades.
+  Los humanos como recurso se utilizan fisicamente, ya sea para realizar una actividad como 
+  para una idea, proyecto, etc. Una serie de cosas tangibles, a diferencia de la información
+  los humanos hacen la actividad, mientras que la información te ayuda a hacerla.
 
 2. Liste las diferencias entre OAS y KWS.
+
+  - OAS se especialisa en analizar la información y 
+  manipularlos
+  - KWS se especialisa en ayudar a la creación de conocimiento
+  - OAS aspectos principales, procesamientos de palabra, hojas 
+  de calculo, diseño gráfico y comunicación por mail, correo de
+  voz y teleconferencia
+  - KWS aspectos principales apoyo científico, ingeniero y 
+  medico, ayudando a la creación de conocimiento en equipo y a 
+  integrarlo en la organización
+
 3. Defina el significado de MIS.
+
+  Sistema de información administrativo, su labor es ayudar a los usuarios a administrar 
+  mejor que los TPS con un abanico mas amplio, incluyendo procesos de análisis y toma de 
+  decisiones. 
+  A diferencia de los TPS estos comparten una database en común, almacenando tanto datos
+  como modelos con los que interactuarán, interpretarán y aplicarán los usuarios. En este se 
+  utilizan procesos para la toma de decisiones en consecuencias deben integrar ciertas 
+  funciones de la información virtual.
+
 4. ¿Cuál es la diferencia entre MIS y DSS?
+
+  - DSS se enfoca de pleno en la toma de desiciones, si bien no es el que las toma si que
+  tiene muchos factores que ayudan a este. Mientras que MIS ayuda mas a lo que organización 
+  se refiere, ayudando esta a la toma de desiciones.
+  - DSS se ajusta mas al grupo o persona que lo utilizan mientras que MIS es algo mas 
+  general para todos.
+
 5. Defina el término sistemas expertos. ¿Cuál es la diferencia entre los sistemas expertos 
 y los sistemas de soporte de decisiones?
+
+  - los sistemas expertos aprenden registrando muchos casos para adquirir conocimiento en 
+  base a los patrones que ve, el DSS no tiene eso si no que te ayuda con información ya 
+  registrada
+  - los sistemas expertos toman la desición que consideran mas acertada mientras que el DSS
+  te deja tomar la desición a vos
+  - los sistemas expertos buscan hacer el trabajo mientras que el DSS te ayuda a resolverlos
+
 6. Enliste los problemas de interacción grupal para los cuales se diseñaron los sistemas de 
 soporte de decisiones en grupo (GDSS) y los sistemas de trabajo colaborativo asistido por 
 computadora (CSCWS).
+
+  En la época actual las empresas confían en los grupos de trabajo para la toma de desiciones
+  esto hace que estos trabajadores necesiten hacerlo de forma conjunta y organizada. Para 
+  lograrlo se crean estos sistemas, que ayudan a la participación grupal a través del software
+  con cosas como: 
+    - Cuestionarios
+    - Lluvias de ideas
+    - Creación de escenarios
+  También ayudan a minimizar malos comportamientos tales como la falta de expresión de 
+  opiniones por presión social, o a facilitar el pensamiento en grupo 
+
 7. ¿Cuál es el término más general, CSCWS o GDSS? Explique.
+
+  El término mas general es CSCWS ya que esta definición incluye y resalta que se toman las
+  desiciones por una computadora, lo cual es fundamental porque todo esto se realiza a través 
+  de software
+
 8. Defina el término comercio-m.
+
+  Se le llama comercio-m al comercio a través de dispositivos moviles, esto es tanto por una
+  app como por una página web. Este comercio nuevo se esta haciendo cada ves mas popular
+  empezando en venta de usuario a usuario como Mercado Libre, hasta ahora que incuso podemos
+  hacer la compra de supermercados en nuestro celular
+
 9. Liste las ventajas de montar aplicaciones en la Web.
 
   - Un mayor numero de usuarios
@@ -56,11 +122,25 @@ para cada uno de ellos.
 
   - Experto de soporte: Se suele usar como soporte para un departamento, generando pequeños
   cambios o desiciones. No se usa para administrar el proyecto si no como recurso para el
-  que lo haga
+  que lo haga.
 
-  - Agente de cambio: Este 
+  - Agente de cambio: Este rol de analista sirve para generar un cambio en la estructura, 
+  este es el rol mas extenso y responsable, puede llegar a durar de 2 semanas a mas de 
+  un año, es muy importante que este interactue con la administración y los usuarios, esto
+  es necesario para que los cambios hechos sean los correctos y mejoren el funcionamiento del
+  sistema para el que se lo haya llamado.
 
 14. ¿Qué cualidades personales son útiles para el analista de sistemas? Haga una lista.
+
+  - Que le resulte un reto divertido solucionar problemas
+  - Capacidad de lidiar con problemas sistematicamente, con herramientas y técnicas
+  - Debe tener habilidades blandas para tratar con personas ya que deberá crear relaciones 
+  para identificar sus problemas
+  - Necesitan conocimientos técnicos para ver la mejor forma de solucionar un problema 
+  aplicando la tecnología
+  - Ser una persona ética para mejor relación con el cliente
+  - Debe ser disciplinado para coordinar los distints ámbitos y personas 
+
 15. Liste y defina brevemente las siete fases del ciclo de vida del desarrollo de sistemas 
 (SDLC).
 16. ¿Para qué se utilizan las herramientas CASE?
