@@ -1,0 +1,38 @@
+
+1. Indique en que casos una aplicacion es vulnerable
+
+    - Cuando no se revisa lo ingresado por el usuario, ya sea por un filtro o algun tipo de
+    seguridad
+    - Consultas o llamadas cuyo contexto no este controlado
+    - Donde se utilizia el ingreso de información para navegar por el ORM y acceder a datos 
+    extra
+    - Donde se puede utilizar valores de entrada como información SQL para modificar la 
+    estructura, ingresar datos, requerir datos o eliminarlos
+
+2. Mencione como puedo prevnir un equipo ante esta vulnerabilidad
+
+    - Utilizar una API segura, tener una interfaz parametrizada o migrarlo al ORMs
+    - Usar una buena validación. No es la mejor defensa ya que muchas veces necesitaras 
+    caracteres especiales
+    - Para pedidos basura, ???
+    - Usar parametros como LIMIT en SQL para prevenir injecciones SQL 
+
+3. Cual es el principal lenguaje de programacion al que aplica este tipo de vulnerabilidad
+
+    El principal es SQL, el cual se aprovechan sus ingreso de datos para hacer injecciones
+    ya sea para robo de datos o violar ciertas limitaciones.
+
+4. Muestre un ejemplo de esta vulnerabilidad
+
+
+
+5. Piense y mencione un posible escenario en donde pueda ocurrir este tipo de vulnerabilidad
+
+    Basandome en un ejemplo de una pagina de 1er año a la hora del login podrias llegar a 
+    iniciar sesión si cuenta y acceder a permisos de administrador, violando los permisos
+
+6. Desarrolle un formulario de inicio de sesion en donde se solicite al usuario ingresar un 
+nombre de usuario y una contraseña. Armar la respectiva base de datos con su tabla y un 
+insert en la misma.
+
+    
