@@ -1,0 +1,129 @@
+1. Investigue 2 tipos de encriptacion en los siguientes lenguajes de 
+programacion: JavaScript y PHP
+
+    El proceso de encriptación en los dos casos es similar, consta de una
+    función matemática que reemplace cada caracter y lo transforme en un
+    texto encriptado inentendible, pero tiene que ser un argumento lógico 
+    ya que luego con otra función deberemos poder desencriptarlo.
+    JavaScript: En JavaScript no tenemos una función predeterminada para 
+    esto por lo que deberemos ingeniarnosla para realizar el encriptado. 
+    Un ejemplo podría ser: 
+    function encrypt_data(string) {
+        string = unescape(encodeURIComponent(string));
+        var newString = '',
+           char, nextChar, combinedCharCode;
+        for (var i = 0; i < string.length; i += 2) {
+        char = string.charCodeAt(i);
+
+      if ((i + 1) < string.length) {
+
+
+      nextChar = string.charCodeAt(i + 1) - 31;
+
+
+      combinedCharCode = char + "" + nextChar.toLocaleString('en', {
+       minimumIntegerDigits: 2
+      });
+
+      newString += String.fromCharCode(parseInt(combinedCharCode, 10));
+
+      } else {
+
+
+      newString += string.charAt(i);
+      }
+      }
+      return newString.split("").reduce((hex,c)=>hex+=c.charCodeAt(0).toString(16).padStart(4,"0"),"");
+    }
+
+    PHP: En PHP ya tenemos una función que se encarga de encriptar aunque
+    debemos meterle nuestros algoritmos para que sea indecifrable. Ejemplo:
+    <?php
+
+        $algorithm = MCRYPT_BLOWFISH;
+        $key = 'That golden key that opens the palace of eternity.';
+        $data = 'The chicken escapes at dawn. Send help with Mr. Blue.';
+        $mode = MCRYPT_MODE_CBC;
+
+        $iv = mcrypt_create_iv(mcrypt_get_iv_size($algorithm, $mode),
+                            MCRYPT_DEV_URANDOM);
+
+        $encrypted_data = mcrypt_encrypt($algorithm, $key, $data, $mode, $iv);
+        $plain_text = base64_encode($encrypted_data);
+        echo $plain_text . "\n";
+
+        $encrypted_data = base64_decode($plain_text);
+        $decoded = mcrypt_decrypt($algorithm, $key, $encrypted_data, $mode, $iv);
+        echo $decoded . "\n";
+    ?>
+
+2. Desarrolle 2 ejemplos con los mismos
+
+    Ya los puse antes.
+
+3. Investigue acerca de que es un HASH de MD5 en JavaScript y en PHP
+
+    HASH es una función criptográfica cuya finalidad recide en convertir
+    ciertos datos parametrizados en una longitud preestablecida de 
+    caracteres, esto se usa para encriptar valores. Un dato importantes es 
+    que no se puede desencriptar, una ves que tenemos los caracteres uno
+    no puede corroborar que significan estos, pero cada ves que ingresemos 
+    datos esto se encriptara de la misma manera. Un buen ejemplo son 
+    nuestras contraseñas, cuando uno pierde las contraseñas nunca nos la
+    dicen devuelta, esto es porque no la sabe. Lo que guardan es el 
+    encriptado, solo pueden comprobar si la contraseña es correcta si uno
+    la escribe y el encriptado es el mismo, por eso debemos crear una nueva.
+    Ahora bien, hay muchos metodos de encriptado que puede hacer HASH entre 
+    estos.
+    MD5 es una función para HASH, esta se caracteriza por devolver una 
+    huella de 128 bits. Esta se usa normalmente para pocos caracteres, 
+    tales como una contraseña, numero de banco, u otros datos cuya 
+    seguridad es indispensable. Su limite es de 256 caracteres. Como 
+    dijimos antes, esta devuelve la misma información si ingresamos los 
+    mismos datos. Es importante entender que no es una encriptación si no 
+    una huella, cuya funcionalidad es que no tiene sistema de 
+    desencriptación y poder ver si hubo cambios en el dato, aunque por su 
+    forma unidireccional (ya que no se puede recuperar lo que ingresamos) 
+    es casi imposible hacer la ingeniería reversa.
+
+    JavaScript: 
+    // con una prévia instalación de npm install blueimp-md5
+
+    <script type="text/javascript" src="md5.min.js"></script>
+    <script>
+    window.addEventListener('load', function() {
+        var strHash = md5('tutsplus');
+        alert('The MD5 hash of the tutsplus string is:' + strHash);
+    });
+    </script>
+
+    PHP: Aquí es mas facil ya que tiene su propia función ya integrada
+    
+    <?php
+    $clave=md5('clave del usuario');
+    echo 'Clave encriptada: '.$clave;
+    ?>
+
+4. Realice un ejemplo de HASH en SHA
+
+    JavaScript:
+
+    const { createHash } = require('crypto');
+
+    function hash(string) {
+    return createHash('sha256').update(string).digest('hex');
+    }
+
+    PHP:
+
+    <?php
+        $texto = "Hola";
+        $textoEncr = sha1($texto)
+    ?>
+
+5. Desarrolle con sus palabras un posible caso de uso en donde podria 
+implementar estas tecnologias. 
+
+    Ya lo fui diciendo a medida que expliqué las anteriores, pero estas se
+    pueden utilizar en contraseñas, numeros bancarios, fotos, etc. 
+    Distintos datos que necesitamos que tengan cierta seguridad
