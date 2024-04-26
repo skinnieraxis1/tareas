@@ -1,0 +1,19 @@
+Lo principal necesario para desarrollar en js es:
+  - Un editor de codigo, donde escribir el codigo y lo identifique y ayude
+  - Un interprete, que pueda traducir el codigo, ya sea browser o node. El
+  interprete depende su modernidad debería traer ciertas herramientas para
+  el desarrollador, entre estas:
+    - Un ispector, para por ejemplo analizar cada elemento de HTML por 
+    separado
+    - Consola, para poder ver el error que estamos teniendo
+    - Debugger, o mas especificamente la funcionalidad del ejecutable 
+    linea por linea para pausar, ver errores o contenidos de variables
+  - Un debugger, un programa que detecte los errores de tu codigo viendo el 
+  codigo linea por linea y permitiendote frenar donde quieras para poder 
+  ver que pasa hasta ese punto de codigo.
+También dependiendo para el tipo de programa que estemos programando se 
+necesitan diferentes cosas. Por ejemplo:
+  - Administrador de librerías
+  - Un Task Runner
+  - Un framework
+  - Un sistema de seguridad

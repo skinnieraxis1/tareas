@@ -1,0 +1,6 @@
+Al principio, JavaScript era dedicado exclusivamente al front-end, con 
+funcionalidades interactivas y dinamicas. En la actualidad JavaScript 
+domina el mercado general de las websites, en algunos de los frameworks
+mas famosos, tales como React o Angular, este es casi el unico lenguaje que
+se usa. Este ya se encarga del back-end también con su JSON haciendo bases
+de datos directamente conectadas con JavaScript.

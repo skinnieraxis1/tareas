@@ -1,0 +1,23 @@
+Desventajas:
+  - No es bueno para matematicas complejas
+  - No tiene todas las libertades que le gustaría y esta encerrado a las 
+  limitaciones del navegador, esto es por un tema de seguridad
+  - No es un lenguaje de copilación. Porque es malo? por dos razones, una 
+  personal y otra real. La primera es que no hay una forma facil de chequear
+  lo que codificamos, teniendo que acceder a un navegador o a un programa
+  externo. La segunda es que al necesitar del navegador para correr, el 
+  codigo esta tal cual lo escribimos, o muy similar en el. Esto deja que 
+  el resto pueda leer facilmente lo que escribimos, pudiendo implementarlo
+  para su propio codigo sin nuestro permiso.
+
+pero....
+
+ventajas:
+  - Tiene una comunidad grande y activa
+  - Variedad de frameworks y librerias
+  - Es facil de aprender dejandote ir directo a los problemas de estructura
+  - No requiere de herramientas costosas para su uso 
+  - Grandes empresas lo usan para desarrollar 
+  - Dynamic Typing, esto nos permite almacenar datos de cualquier tipo en una
+  variable y reemplazarlos por datos de otro tipo (esto se puede evitar 
+  nombrando la variable como const)

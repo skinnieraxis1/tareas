@@ -1,0 +1,8 @@
+JavaScript es un lenguaje de interpretación osea, que se necesita un 
+interprete para ser ejecutado. La otra variante es que sea un lenguaje 
+copilado. Sus caracteristicas son:
+
+    - Copilado: Solo con el codigo la computadora entenderá el lenguaje, 
+    logrando ejecutarlo sin mayor problema
+    - Intepretación: Necesita un programa que lo traduzca a la pc. JavaScript
+    por ejemplo, necesita ser ejecutado en una pagina o con node

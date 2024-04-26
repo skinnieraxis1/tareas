@@ -1,0 +1,8 @@
+El objetivo con el que nace JavaScript, antes llamado type script, fue para
+hacer las websites mas dinamicas. Las websites nacieron para reemplazar
+a las APPs, sirviendo como un remplazo a esas descargas molestas y espacio
+que ocupar. Su problema hace años era que eran muy estaticas, osea no tenian
+mucha interacción para que scrollear para arriba y abajo y leer, o escribir
+ya sea para un foro o para iniciar sesión. Para esto viene JavaScript que
+agrega dinamismo a las websites agregando botones, cambios de tamaño, que 
+sea mas vistoso y que en general se pudieran hacer mas cosas.

@@ -1,0 +1,5 @@
+Otra caracteristica de JavaScript, que también contienen los lenguajes mas
+modernos es la copilación en tiempo real. Esto significa que no necesita que
+todo el codigo este incluido para ejecutar el programa si no que lo ejecuta 
+por partes. Esto nos permite limitar zonas especificas a la hora de 
+ejecutarlo, para identificar donde estan los problemas o como solucionarlos.

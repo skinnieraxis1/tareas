@@ -1,0 +1,4 @@
+Se les llama lenguajes de alto nivel a aquellos lenguajes mas complejos, con 
+esto me refiero a que son mas dificiles de codificar?, no todo lo contrario.
+Los lenguajes de alto nivel son los que mas se alejan de el lenguaje de la 
+computadora, haciendolo mas lejible para el usuario. 
