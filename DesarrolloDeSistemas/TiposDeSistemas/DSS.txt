@@ -1,0 +1,6 @@
+Sistemas de soporte de decisiones: es similar al MIS ya que se centran en
+ayudar a la administración a través de una base de datos. Su principal 
+diferencia es que el DSS le deja al usuario la opción final sobre que hará
+siendo simplemente un respaldo brindado para la toma de desiciones, mientras
+que el MIS da funciones automatizadas y te deja trabajar con los resultados.
+

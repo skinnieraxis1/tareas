@@ -1,0 +1,7 @@
+El sistema de procesamiento de transacciones, como su nombre indica consiste
+en un sistema que permite la transacciones, como nóminas e inventarios. 
+Esto se realiza con un sistema seguro que se asegura que la transacción haya
+sido finalizada para descontar y sumar lo que se haya intercambiado. Este 
+reduce el tiempo que se solía tomar en las transacciones operacionales.
+Estos sirven para que las empresas no solo tengan un conteo interior si no 
+que puedan tener un contéo con el exteriór.

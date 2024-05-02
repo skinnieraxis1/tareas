@@ -1,0 +1,8 @@
+Inteligencia artificial y sistemas expertos: Las AI son sistemas que buscan
+tener un comportamiento inteligente, su idea es tener comprensión del 
+lenguaje humano y analisar para resolver un problema. 
+Los sistemas expertos son sistemas de ayuda de resolución de problemas
+especificos a los que la empresa se enfrenta. Son parecidos a los DSS pero 
+en este caso te dan la que consideran la mejor respuesta a tu problema. Como 
+ejemplo tenemos el lenguaje de SQL que te deja realizar consultas precisas
+en una gran DATABASE.

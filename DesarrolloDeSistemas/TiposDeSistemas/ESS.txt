@@ -1,0 +1,4 @@
+Sistema de soporte para ejecutivos: Son sistemas que recopilan información
+hayada en los sistemas TPS y MIS para ayudar a los ejecutivos a tomar 
+decisiones empresariales, tomando decisiones estratégicas segun la 
+información hayada

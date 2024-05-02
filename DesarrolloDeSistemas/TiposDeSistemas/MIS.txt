@@ -1,0 +1,7 @@
+Sistemas de información administrativa: Este sistema tiene como objetivo 
+optimizar y digitalizar el funcionamiento de la administración de la empresa.
+Esto se logra pasando la información de las distintas áreas a una zona 
+central en la que con distintas herramientas y funciones se automatizan 
+procesos de administración.
+Si bien parece parecido al sistema de transacciones o TPS hay que entender 
+que no son lo mismo, de hecho los MIS suelen llevar TPS dentro

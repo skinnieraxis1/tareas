@@ -1,0 +1,5 @@
+GDSS o SIstema de apoyo a la toma de decisiones en grupo: Son sistemas 
+hechos para que los grupos resuelvan problemas con ayuda de apoyos como, 
+encuestas, cuestionarios, lluvias de ideas y creación de escenarios. 
+Sistemas de trabajo colaborativo asistido por computadora o CSCWS: Es lo
+mismo que el GDSS pero a través de una red y cada uno en su computadora.

@@ -1,0 +1,10 @@
+OAS Sistemas de automatización de oficinas: 
+Son sistemas de oficina para empleados que no crean nuevos conocimientos, 
+mas bien son aplicaciones que sirven para el trabajo administrativo general
+en el que utilizamos información que nos dan. Ya sea con app como Excel, 
+Word, etc.
+
+KWS Sistemas de trabajo de conocimiento: 
+Ayudan a los trabajos del indole de creación de conocimiento (normalmente en
+equipos) y a su integración dentro de la organización. Estos ayudan a 
+profesionales como lo puede ser un ingeniero, médico o científico.
