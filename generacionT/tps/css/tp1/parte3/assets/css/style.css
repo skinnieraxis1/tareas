@@ -1,0 +1,66 @@
+/*Clases*/
+
+#carnivoros{
+    background-color: red;
+}
+
+#herbivoros{
+    background-color: lightgreen;
+}
+
+#voladores{
+    text-shadow: rgb(178, 178, 178) 2px 2px;
+}
+
+#acuaticos{
+    font-style: oblique;
+    color: blue;
+}
+
+/*Dinosaurios*/
+
+.trex{
+    font-size: 24px;
+    color: rgb(43, 226, 162);
+}
+
+.triceratops{
+    text-decoration: underline solid;
+    font-weight: 400px;
+}
+
+.guias{
+    font-size: 1000000px;
+}
+
+/**/
+div{
+    border: 2px solid rgb(211, 127, 127);
+    border-left: 5px solid rgb(118, 118, 255);
+    margin: 20px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.guias{
+    text-align: center;
+}
+
+.guiasUl, .atraccionesUl{
+    display: flex;
+}
+
+.guia, .atracciones{
+    margin: 50px;
+}
+
+.atracciones{
+    letter-spacing: 5px;
+    color: brown;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+}

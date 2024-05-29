@@ -1,0 +1,41 @@
+/*Lados*/
+
+#imperio{
+    background-color: red;
+}
+#rebeldes{
+    background-color: blue;
+}
+
+/*Jefazos*/
+
+#darthVaderDiv{
+    font-size: 60;
+}
+#lukeDiv{
+    font-style: italic;
+}
+
+/*Unidades Secundarias*/
+
+.trooperDiv{
+    border: 5px solid black;
+    border-radius: 25px;
+    letter-spacing:10px;
+    padding: 20px;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.spaceships{
+    text-transform: uppercase;
+}
+
+.droidesDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center; 
+}

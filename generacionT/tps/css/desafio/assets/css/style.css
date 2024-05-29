@@ -1,0 +1,74 @@
+body{
+    background-color: #212121;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Background*/
+
+.background{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    height: 40em;
+}
+
+/*Hud*/
+
+.hud{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dialogue{
+    height: 200px;
+    width: 50%;
+    background-color: #212121;
+    border: 10px white solid;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+}
+
+.text{
+    margin: 5px;
+    font-size: 23px;
+}
+
+.opciones{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    width: 210px;
+    height: 90px;
+    background-color: #212121;
+    border: 10px solid #f17926 ;
+    color: #f17926;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 10px 0px 0px 0px;
+}
+
+h1{
+    margin: 0px;
+}
+
+.button:hover{
+    border: 10px solid #fffd0b;
+    color: #fffd0b;
+}

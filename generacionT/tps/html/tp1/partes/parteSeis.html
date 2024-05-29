@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Crear un Formulario de Registro para un Evento Deportivo</h1>
+    <div class="divForm">
+        <form action="" style="display: flex; flex-direction: column; width: fit-content;">
+            <!-- Full Name -->
+            <label for="fname">First name:</label>
+            <input type="text" id="fname" name="fname">
+    
+            <label for="lname">Last name:</label>
+            <input type="text" id="lname" name="lname">
+    
+            <!-- Age -->
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age">
+    
+            <!-- Email -->
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email">
+    
+            <!-- Category -->
+            <label for="category" s>Choose your category</label>
+            <select id="category" name="category" style="width: fit-content;">
+                <option value="Sub-12">Sub-12</option>
+                <option value="Sub-15">Sub-15</option>
+                <option value="Sub-18">Sub-18</option>
+            </select>
+    
+            <!-- Position -->
+            <div>
+                <input type="radio" id="Forward" name="position" value="Forward" class="radioI">
+                <label for="Forward" class="labelR">Forward</label>
+            </div>
+            <div>
+                <input type="radio" id="Midfielder" name="position" value="Midfielder">
+                <label for="Midfielder" class="labelR">Midfielder</label>
+            </div>
+            <div>
+                <input type="radio" id="Defender" name="position" value="Defender">
+                <label for="Defender" class="labelR">Defender</label>
+            </div>
+            <div>
+                <input type="radio" id="Goalkeeper" name="position" value="Goalkeeper">
+                <label for="Goalkeeper" class="labelR">Goalkeeper</label>
+            </div>
+    
+            <!-- Terms and Conditions -->
+            <div>
+                <input type="checkbox" id="t&c" name="t&c" value="accept">
+                <label for="t&c">Accept the terms and conditions</label><br>
+            </div>
+    
+            <!-- Submit -->
+            <input type="submit" value="Submit">
+            
+        </form>
+    </div>
+    
+</body>
+<style>
+    input, select, labelR{
+        margin-bottom: 10px;
+    }
+
+    .radioI{
+        margin-bottom: 0px;
+    }
+</style>
+</html>

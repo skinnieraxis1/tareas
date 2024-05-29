@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - Vault-Tec Corporation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="services.html">Services</a></li>
+        </ul>
+    </nav>
+    <header>
+        <div class="logo">
+            <img src="./img/vault-tec-logo.png" alt="Vault-Tec Logo">
+        </div>
+        <h1>Vault-Tec Corporation</h1>
+        <h2>Services</h2>
+    </header>
+    <section id="vaults">
+        <h2>Vaults</h2>
+        <p>At Vault-Tec, we offer a range of underground vaults designed to meet the diverse needs of our clients. Each vault is equipped with state-of-the-art facilities and is capable of sustaining human life for extended periods. Explore our selection of vaults:</p>
+        <ul>
+            <li><strong>Vault 13:</strong> A standard control vault designed for long-term habitation.</li>
+            <li><strong>Vault 101:</strong> Known for its self-sufficient design and robust security measures.</li>
+            <li><strong>Vault 112:</strong> Features an immersive virtual reality simulation for inhabitants.</li>
+            <li><strong>Vault 77:</strong> A smaller vault designed for a limited number of occupants.</li>
+            <li><strong>Vault 111:</strong> Equipped with cryogenic suspension technology for extended periods of stasis.</li>
+        </ul>
+        <p>Contact us to learn more about our vault options and find the perfect shelter for your needs.</p>
+    </section>
+    <section id="registration">
+        <h2>Registration</h2>
+        <p>To register for one of our vaults, please fill out the form below:</p>
+        <div style="display: flex; flex-direction: row;">
+            <form>
+                <div>
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div>
+                    <label for="vault">Vault of Interest:</label>
+                    <select id="vault" name="vault" required>
+                        <option value="Vault 13">Vault 13</option>
+                        <option value="Vault 101">Vault 101</option>
+                        <option value="Vault 112">Vault 112</option>
+                        <option value="Vault 77">Vault 77</option>
+                        <option value="Vault 111">Vault 111</option>
+                    </select>
+                </div>
+                <input type="submit" value="Register">
+            </form>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 Vault-Tec Corporation. All rights reserved.</p>
+    </footer>
+</body>
+</html>
