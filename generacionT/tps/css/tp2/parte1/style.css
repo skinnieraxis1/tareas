@@ -1,0 +1,23 @@
+div {
+    border: 2px solid red;
+    border-left: 5px solid blue;
+    margin: 20px;
+    padding: 20px;
+}
+
+button{
+    border-radius: 10px;
+    background-color: #202330;
+    border: 0px;
+    font-size: 30px;
+    padding: 10px;
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+button:hover{
+    background-color: #363943;
+}

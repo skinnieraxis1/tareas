@@ -1,0 +1,38 @@
+div {
+    height: 150px;
+    border: 3px solid #092454;
+    margin-bottom: 20px;
+}
+
+#uno {
+    background-color: #e69ef2;
+}
+
+#dos {
+    background-color: #62d0ff;
+}
+
+#tres {
+    background-color: #ced5db;
+}
+
+#cuatro {
+    background-color: #85e38d;
+}
+
+button{
+    border-radius: 10px;
+    background-color: #202330;
+    border: 0px;
+    font-size: 30px;
+    padding: 10px;
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+button:hover{
+    background-color: #363943;
+}
