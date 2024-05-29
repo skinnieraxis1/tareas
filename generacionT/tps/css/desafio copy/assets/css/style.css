@@ -1,0 +1,158 @@
+body{
+    margin: 0px;
+    background-color: #121212;
+    display: grid;
+    grid-template-columns: repeat(24, 1fr);
+    grid-auto-rows: minmax(25px, auto);
+    gap: 10px;
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+}
+
+@keyframes robotCuandoMuerte {
+    from { visibility: visible;  }
+    to { visibility: hidden; }
+}
+
+@keyframes muerte {
+    from { background-color: #121212;  }
+    to { background-color: rgba(255, 0, 0, 0.671); }
+}
+
+/*Image*/
+
+.boxImage{
+    background-color: #121212;
+    grid-column: 2 / 24;
+    grid-row: 2 / 18;
+    display: grid;
+    grid-template-columns: repeat(24, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    gap: 0px;
+}
+
+.ojo{
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.ojoIzq{
+    background-image: url(../img/ojos.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    grid-column: 9 / 17;
+    grid-row: 1 / 5;
+    border-radius: 25%;
+}
+
+.escenario {
+    background-size: cover;
+    background-repeat: no-repeat;
+    grid-column: 16 / 24;
+    grid-row: 3 / 8;
+    border-radius: 10px;
+    border-width: 15px;
+    border-style: solid;
+    border-image: url(../img/texturaPantalla.jpg) 20 round;
+}
+
+/*Imagenes de los casos (los puse como background para calibrar mejor el tamaño*/
+
+.aE{
+    background-image: linear-gradient(rgba(4, 253, 255, 0.2), rgba(4, 253, 255, 0.2)), url(../img/bosque.jpg);
+}
+
+.bE{
+    background-image: linear-gradient(rgba(4, 253, 255, 0.2), rgba(4, 253, 255, 0.2)), url(../img/fondoB.jpg);
+}
+
+.baE{
+    background-image: linear-gradient(rgba(4, 253, 255, 0.2), rgba(4, 253, 255, 0.2)), url(../img/fondoBA.jpg);
+}
+
+.baFinalAE{
+    background-image: linear-gradient(rgba(4, 253, 255, 0.2), rgba(4, 253, 255, 0.2)), url(../img/fondoBAFinalA.jpg);
+}
+
+.baFinalBE{
+    background-image: linear-gradient(rgba(4, 253, 255, 0.2), rgba(4, 253, 255, 0.2)), url(../img/fondoBAFinalB.jpg);
+}
+
+.cE{
+    background-image: linear-gradient(rgba(4, 253, 255, 0.2), rgba(4, 253, 255, 0.2)), url(../img/fondoC.jpg);
+}
+
+
+
+
+/*Dialogue*/
+
+.boxDialogue{
+    grid-column: 2 / 18;
+    grid-row: 18 / 28;
+    padding: 0px 20px 0px 20px;
+    color: #04fdff;
+}
+
+.fondoPantalla{
+    background-color: #184272;
+    grid-column: 2 / 22;
+    grid-row: 18 / 28;
+    border-width: 15px;
+    border-style: solid;
+    border-image: url(../img/texturaPantalla.jpg) 20 round;
+}
+
+.monitor{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/texturaPantalla.jpg);
+    grid-column: 1 / 25;
+    grid-row: 17 / 29;
+    border-radius: 50px;
+}
+
+p{
+    font-size: 20px;
+}
+
+/*Option*/
+
+.a{
+    grid-column: 18 / 25;
+    grid-row: 18 / 23;
+}
+
+.b{
+    grid-column: 18 / 25;
+    grid-row: 23 / 28;
+}    
+    
+.option{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.mensaje{
+    width: 53%;
+}
+
+.boton {
+    border-radius: 50%;
+    background-image: linear-gradient(rgba(57, 57, 57, 0.5), rgba(62, 62, 62, 0.5)), url(../img/texturaPantalla.jpg);;
+    width: 30%;
+    box-shadow: -10px 10px rgb(42, 43, 43);
+    margin-right: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: inline-block; 
+}
+
+.boton:hover {
+    transform: translateX(-5px) translateY(5px);
+    box-shadow: -5px 5px rgb(42, 43, 43);
+}
+
+.boton a {
+    display: block; 
+    width: 100%; 
+    height: 100%;
+}
