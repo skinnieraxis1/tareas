@@ -115,21 +115,38 @@ p{
 }
 
 /*Option*/
-
+ 
 .a{
-    grid-column: 18 / 25;
-    grid-row: 18 / 23;
+    grid-column: 2 / 6;
+    grid-row: 18 / 28;
 }
 
 .b{
-    grid-column: 18 / 25;
-    grid-row: 23 / 28;
+    grid-column: 6 / 10;
+    grid-row: 18 / 28;
 }    
-    
+
+.c{
+    grid-column: 10 / 14;
+    grid-row: 18 / 28;
+}
+   
+.d{
+    grid-column: 14 / 18;
+    grid-row: 18 / 28;
+}
+
+.e{
+    grid-column: 18 / 22;
+    grid-row: 18 / 28;
+}
+  
 .option{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-    padding: 10px;
+    padding: 30px;
+    align-items: center;
 }
 
 .mensaje{
@@ -139,7 +156,8 @@ p{
 .boton {
     border-radius: 50%;
     background-image: linear-gradient(rgba(57, 57, 57, 0.5), rgba(62, 62, 62, 0.5)), url(../img/texturaPantalla.jpg);;
-    width: 30%;
+    width: 50%;
+    height: 50%;
     box-shadow: -10px 10px rgb(42, 43, 43);
     margin-right: 10px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
