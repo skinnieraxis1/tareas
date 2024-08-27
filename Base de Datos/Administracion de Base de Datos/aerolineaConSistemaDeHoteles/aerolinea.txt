@@ -1,0 +1,109 @@
+create database agenciaViajes;
+use agenciaViajes;
+
+create table aeropuerto(
+	id int(11)auto_increment,
+    nombre VARCHAR(40),
+    direccion VARCHAR(40),
+    primary key(id)
+);
+
+create table vuelo(
+	id int(11)auto_increment,
+    fecha_hora_salida datetime,
+    fecha_hora_llegada datetime,
+    numero_plazas int(11),
+    aeropuertoLlegada int(11),
+    aeropuertoSalida int(11),
+    primary key(id),
+    foreign key(aeropuertoLlegada) references aeropuerto(id),
+    foreign key(aeropuertoSalida) references aeropuerto(id)
+);
+
+create table provincia(
+	id int(11)auto_increment,
+    nombre VARCHAR(40),
+    primary key(id)
+);
+
+create table localidad(
+	id int(11)auto_increment,
+    nombre VARCHAR(40),
+    provincia int(11),
+    primary key(id),
+    foreign key(provincia) references provincia(id)
+);
+
+create table sucursal(
+	id int(11),
+    telefono int(11),
+    direccion VARCHAR(40),
+    codigo_postal VARCHAR(40),
+    localidad int(11),
+    primary key(id),
+    foreign key(localidad) references localidad(id)
+);
+
+create table cliente(
+	id int(11)auto_increment,
+    nombre VARCHAR(40),
+    apellido1 VARCHAR(40),
+    apellido2 VARCHAR(40),
+    nif VARCHAR(50),
+    telefono int(11),
+    email VARCHAR(50),
+    direccion VARCHAR(40),
+    codigo_postal VARCHAR(40),
+    localidad int(11),
+    primary key(id),
+    foreign key(localidad) references localidad(id)
+);
+
+create table hotel(
+	id int(11)auto_increment,
+    nombre VARCHAR(40),
+    direccion VARCHAR(40),
+    telefono int(11),
+    numero_estrellas int(5),
+    primary key(id)
+);
+
+create table servicio_alojamiento(
+    id int(11),
+    fecha_hora_entrada datetime,
+    fecha_hora_salida datetime,
+    precio float(11),
+    cliente int(11),
+    hotel int(11),
+    primary key(id),
+    foreign key(cliente) references cliente(id),
+    foreign key(hotel) references hotel(id)
+);
+
+create table servicio_vuelo(
+	id int(11),
+    fecha_hora date,
+    precio float(11),
+    sucursal int(11),
+    cliente int(11),
+    vuelo int(11),
+    primary key(id),
+    foreign key(sucursal) references sucursal(id),
+    foreign key(cliente) references cliente(id),
+    foreign key(vuelo) references vuelo(id)
+);
+
+
+insert into provincia values ( "Buenos Aires" );
+insert into provincia values ( "Rio Negro" );
+insert into provincia values ( "Salta" );
+insert into provincia values ( "Tierra del fuego" );
+insert into provincia values ( "Tucuman" );
+
+insert into localidad values ( "Mar del plata", 1);
+insert into localidad values ( "Bariloche", 2);
+insert into localidad values ( "CABA", 1);
+insert into localidad values ( "Usuahia", 4);
+insert into localidad values ( "Iguazu", 1);
+
+insert into cliente values ( "Samuel", "Bravo", "Heredia", );

@@ -1,0 +1,321 @@
+<mxfile host="app.diagrams.net" modified="2023-05-19T17:14:15.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="vYsXE22ZkR5xyeccsiVv" version="21.2.9" type="google">
+  <diagram name="Página-1" id="3DN92UFTWI6SJOD0S9Eu">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-1" target="eMmPj3ns2APkVdvvD7_F-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-1" value="entidadBancaria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-2" target="eMmPj3ns2APkVdvvD7_F-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-2" value="&lt;u&gt;codigo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-3" target="eMmPj3ns2APkVdvvD7_F-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-3" value="domicilio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-4" target="eMmPj3ns2APkVdvvD7_F-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-4" target="eMmPj3ns2APkVdvvD7_F-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-4" target="eMmPj3ns2APkVdvvD7_F-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-4" value="sucursal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.975;exitY=0.325;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-5" target="eMmPj3ns2APkVdvvD7_F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-5" value="&lt;u&gt;codigo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="615" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-6" target="eMmPj3ns2APkVdvvD7_F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-6" value="domicilio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.15;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-7" target="eMmPj3ns2APkVdvvD7_F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-7" value="nEmpleados" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-8" target="eMmPj3ns2APkVdvvD7_F-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-8" value="vigilantesJurados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="921" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-9" value="alojar" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-12" target="eMmPj3ns2APkVdvvD7_F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-12" value="&lt;u&gt;entidadBancaria&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-13" target="eMmPj3ns2APkVdvvD7_F-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-13" value="&lt;u&gt;codigoDeVigilante&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1016" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-14" target="eMmPj3ns2APkVdvvD7_F-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-14" value="edad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1016" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-15" value="contratar" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="911" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.789;exitY=0.067;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-16" target="eMmPj3ns2APkVdvvD7_F-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-16" value="&lt;u&gt;sucursal&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1006" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0.775;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-17" target="eMmPj3ns2APkVdvvD7_F-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-17" value="&lt;u&gt;vigilante&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1036" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-18" target="eMmPj3ns2APkVdvvD7_F-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-18" value="conArma" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="857.67" width="80" height="53.33" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.338;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-27" target="eMmPj3ns2APkVdvvD7_F-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-27" value="fecha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="842.67" width="80" height="53.33" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.588;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-29" target="eMmPj3ns2APkVdvvD7_F-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-29" value="&lt;u&gt;entidad&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="524" y="830" width="78" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.956;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.056;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-16" target="eMmPj3ns2APkVdvvD7_F-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="1126" as="sourcePoint" />
+            <mxPoint x="480" y="1076" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.956;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.056;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519" y="1076" as="sourcePoint" />
+            <mxPoint x="600" y="1076" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.956;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.056;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="521" y="868.84" as="sourcePoint" />
+            <mxPoint x="602" y="868.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-43" target="eMmPj3ns2APkVdvvD7_F-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-43" target="eMmPj3ns2APkVdvvD7_F-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-43" value="detenidos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.092;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-44" target="eMmPj3ns2APkVdvvD7_F-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-44" value="&lt;u&gt;cuit&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-45" target="eMmPj3ns2APkVdvvD7_F-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-45" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-46" target="eMmPj3ns2APkVdvvD7_F-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-46" value="apellido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="110" height="73.33" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-47" target="eMmPj3ns2APkVdvvD7_F-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-47" value="banda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-48" target="eMmPj3ns2APkVdvvD7_F-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-48" value="&lt;u&gt;codigo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-10" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-49" target="eMmPj3ns2APkVdvvD7_F-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-49" value="cantParticipantes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="3.33" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-50" value="participar" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-63" target="eMmPj3ns2APkVdvvD7_F-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-63" target="eMmPj3ns2APkVdvvD7_F-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-63" target="eMmPj3ns2APkVdvvD7_F-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-63" value="caso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="549" y="583.33" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-65" target="eMmPj3ns2APkVdvvD7_F-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-65" value="juez" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="503.33" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-67" target="eMmPj3ns2APkVdvvD7_F-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-67" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="593.33" width="90" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.808;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-68" target="eMmPj3ns2APkVdvvD7_F-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-68" value="&lt;u&gt;codigo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="393.33" width="100" height="66.67" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-71" target="eMmPj3ns2APkVdvvD7_F-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-71" value="&lt;u&gt;juez&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="643.33" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-73" target="eMmPj3ns2APkVdvvD7_F-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-73" value="&lt;u&gt;banda&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="503.33" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-74" target="eMmPj3ns2APkVdvvD7_F-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-74" value="tiempoCondenado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="695" width="112.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-79" target="eMmPj3ns2APkVdvvD7_F-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-79" value="&lt;u&gt;sucursal&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="510.00000000000006" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-80" value="" style="endArrow=none;html=1;rounded=0;entryX=0.956;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.056;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434.5" y="550" as="sourcePoint" />
+            <mxPoint x="515.5" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-82" value="" style="endArrow=none;html=1;rounded=0;entryX=0.956;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.056;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689.5" y="543.33" as="sourcePoint" />
+            <mxPoint x="770.5" y="543.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-83" value="" style="endArrow=none;html=1;rounded=0;entryX=0.956;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.056;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="709.5" y="687.33" as="sourcePoint" />
+            <mxPoint x="790.5" y="687.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-85" value="acusado" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-89" value="participar" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="535" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-92" value="estar" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-97" target="eMmPj3ns2APkVdvvD7_F-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-97" value="&lt;u&gt;caso&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="410" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-98" value="" style="endArrow=none;html=1;rounded=0;entryX=0.956;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.056;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="667" y="449.6" as="sourcePoint" />
+            <mxPoint x="748" y="449.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="eMmPj3ns2APkVdvvD7_F-99" target="eMmPj3ns2APkVdvvD7_F-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-99" value="&lt;u&gt;detenido&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="84" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-100" value="" style="endArrow=none;html=1;rounded=0;entryX=0.956;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.056;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="459.20000000000005" as="sourcePoint" />
+            <mxPoint x="561" y="459.20000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMmPj3ns2APkVdvvD7_F-105" value="" style="endArrow=none;html=1;rounded=0;entryX=0.956;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.056;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="39.5" y="574.38" as="sourcePoint" />
+            <mxPoint x="120.5" y="574.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqYO7EMjBX_rLDJRKICb-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MqYO7EMjBX_rLDJRKICb-1" target="eMmPj3ns2APkVdvvD7_F-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqYO7EMjBX_rLDJRKICb-1" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="926" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MqYO7EMjBX_rLDJRKICb-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="MqYO7EMjBX_rLDJRKICb-3" target="eMmPj3ns2APkVdvvD7_F-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqYO7EMjBX_rLDJRKICb-3" value="&lt;u&gt;banda&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MqYO7EMjBX_rLDJRKICb-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.025;exitY=0.638;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MqYO7EMjBX_rLDJRKICb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="460" as="sourcePoint" />
+            <mxPoint x="410" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqYO7EMjBX_rLDJRKICb-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="MqYO7EMjBX_rLDJRKICb-6" target="eMmPj3ns2APkVdvvD7_F-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqYO7EMjBX_rLDJRKICb-6" value="&lt;u&gt;codigo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
