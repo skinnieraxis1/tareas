@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.cuerpo-index{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    place-content: center;
+    background-image: linear-gradient(120deg, #8ab3af, #164e6e);
+    height: 100vh;
+}
+
+.navbar-amigos-izq{
+    width: 15%;
+    height: 100vh;
+    background-color: #73807f;
+}
+
+.cuerpo{
+    width: 85%;
+    height: 100vh;
+    background-color: #185274;
+    float:right;
+    position: absolute;
+    left: 15%;
+    top: 0px;
+}
+
+.navbar-servidores{
+    width: 100%;
+    height: 15%;
+}
+
+#nav-mobile{
+    background-color: #a14a4d !important;
+}
+
+.img_server{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.pagination{
+    width: 70%;
+    height: 0px;
+}
+
+.pagination li{
+    height: 64px;
+}

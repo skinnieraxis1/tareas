@@ -1,0 +1,218 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: auto;
+    height: auto;
+}
+
+
+.navbar-amigos-izq{
+    width: 15%;
+    height: 100vh;
+    background-color: #c26265;
+    position: absolute;
+}
+
+.cuerpo{
+    width: 85%;
+    height: 98.3vh;
+    background-color: #ee6e73;
+    float:right;
+    position: absolute;
+    left: 15%;
+    top: 0px;
+}
+
+.navbar-servidores{
+    width: 100%;
+    height: 6.3%;
+    
+}
+
+#nav-mobile{
+    background-color: #a14a4d !important;
+}
+
+.img_server{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.pagination{
+    width: 70%;
+    height: 0px;
+}
+
+.pagination li{
+    height: 64px;
+}
+
+.barra-canales{
+    width: 176px;
+    height: 93.5vh;
+    background-color: #c26265;
+    float: right;
+    position: absolute;
+    left: 89%;
+}
+ 
+.canal{
+    width: 100%;
+    height: 93.6vh;
+    background-color: rgb(50, 49, 49);
+    position: absolute;
+}
+.zona-canales{
+    background-color: #c26265;
+    width: 100px;
+    height: 90vh;
+    position: absolute;
+    left: 25%;
+    top: 20px;
+}
+
+.fixed-action-btn{
+    position: initial;
+    margin: 15px 30px 10px 8px;
+    float: left;
+}
+
+.fixed-action-btn.direction-left ul{
+    position: relative;
+    top: -56px;
+    right: 68px;
+    height: 0px;
+    width: 50px;
+}
+
+.large material-icon{
+    color: #ee6e73;
+}
+
+#position_conf{
+    position: absolute;
+    top: 91% !important;
+}
+#position_conf_ul{
+    position: absolute;
+    top: 85.5% !important;
+    right: 92%;
+}
+#perfil{
+    position: absolute;
+    left: 92.7%;
+    bottom: 98.8%;
+}
+
+/*CHAT*/
+
+.zona-texto{
+    position: absolute;
+    width: 89%;
+    height: 100%;
+    background-color: rgb(194, 194, 194);
+}
+.form-chat{
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    background-color: rgb(234, 234, 234);
+    top: 90%;
+}
+.form-mens-chat{
+    position: absolute;
+    width: 90%;
+    height: 50%;
+    background-color: rgb(194, 194, 194);
+    top: 25%;
+    left: 2%;
+    border-radius: 25px;
+}
+.form-env-chat{
+    position: absolute;
+    width: 5%;
+    height: 70%;
+    background-color: rgb(161, 165, 161);
+    top: 15%;
+    left: 93%;
+    border-radius: 25px;
+}
+.zona-mensajes{
+    position: absolute;
+    width: 89%;
+    height: 85%;
+    top: 5%;
+    background-color: rgb(203, 203, 203);
+    left: 5.5%;
+}
+.zona-mensaje-indv{
+    width: 50%;
+    height: 7%;
+    background-color: antiquewhite;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.ej-mensaje{
+    width: 44%;
+    height: 5%;
+    position: absolute;
+    top: 2.7%;
+    left: 6%;
+    background-color: rgb(216, 148, 58);
+    border-radius: 25px;
+}
+.ej-ft-perfil{
+    width: 50px;
+    height: 50px;
+    top: 2.3%;
+    position: absolute;
+    background-color: rgb(216, 148, 58);
+    border-radius: 50%;
+}
+#form-env-chat{
+    position: absolute;
+    width: 5%;
+    height: 70%;
+    background-color: rgb(104, 201, 104);
+    top: 15%;
+    left: 93%;
+    border-radius: 25px;
+}
+.mens{
+    width: 97%;
+    position: absolute;
+    left: 20px;
+}
+
+/*CREACION DE CANALES Y CATEGORIAS*/
+
+.cat{
+    width: 100vh;
+    height: 60vh;
+    background-color: darkslategray;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    display: none;
+}
+.int_cat{
+   width: 60%;
+   height: 60%; 
+   position: absolute;
+   top: 25%;
+   left: 15%;
+}
+#cerrar{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.boton_categoria{
+    width: 50px;
+    height: 50px;
+}

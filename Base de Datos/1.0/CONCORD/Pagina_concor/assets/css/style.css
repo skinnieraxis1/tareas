@@ -1,0 +1,146 @@
+/*###################ZONA GENERAL#######################*/
+
+body{
+    background: rgb(50, 50, 50);
+}
+
+/*###################ZONA DE INDEX#####################*/
+
+
+/*###################ZONA DE HOME#####################*/
+
+.titulo, .titulo-concord{
+    color: #ee6e73;
+    position:   absolute;
+    font-size: 100px;
+}
+.titulo-concord{
+    font-family: milkhoney;
+    top: 450px;
+    left: 755px;
+}
+.titulo{
+    font-family: jumpsover;
+    top: 300px;
+    left: 710px;
+}
+
+.brand-logo{
+    margin-left: 15px;
+}
+
+.left hide-on-med-and-down{
+    margin-left: 100px !important;
+}
+
+.bodier{
+    height: 93.4vh;
+    width: 192.3vh;
+}
+.bajo-bodier{
+    height: 60vh;
+    width: 192.3vh;
+    background: rgb(50, 49, 49);
+}
+
+/*###################ZONA DE LOGIN#####################*/
+
+.login{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    background: linear-gradient(150deg, #778585, #185274, #7e99ac, #185274, #73807f);
+    height: 100vh;
+    overflow: hidden;
+}
+.txt_login_center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+.txt_login_center h1{
+    text-align: center;
+    padding: 0 0 20px 0;
+    border-bottom: 1px solid silver;
+}
+.txt_login_center form{
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+form .txt_campo_login{
+    position: relative;
+    border-bottom: 2px solid #adadad;
+    margin: 30px 0;
+    /*SALE lol?*/
+}
+.txt_campo_login input{
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+}
+.txt_campo_login span::before{
+    content: "";
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 0%;
+    height: 2px;
+    background: #2f6d96;
+}
+.txt_campo_login input:valid ~ span::before{
+    width: 100%;
+    color: #2691d9;
+}
+.recuperacion{
+    margin: -5px 0 20px 5px;
+    color: #a6a6a6;
+    cursor: pointer;
+}
+.recuperacion:hover{
+    text-decoration: underline;
+}
+input[type="submit"]{
+    width: 100%;
+    height: 50px;
+    border: 1px solid;
+    background: #2691d9;
+    border-radius: 25px;
+    font-size: 18px;
+    color: #e9f4fb;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+}
+.login_registrase{
+    margin: 30px 0;
+    text-align: center;
+    font-size: 16px;
+    color: #666666;
+}
+.login_registrase a{
+    color: #2691d9;
+    text-decoration: none;
+}
+.login_registrase a:hover{
+    text-decoration: underline;
+}
+
+
+/*###################ZONA DE FUENTES#####################*/
+
+@font-face {
+    font-family: 'milkhoney';
+    src: url('../ttf/Milky\ Honey.ttf');
+    }
+@font-face {
+    font-family: 'jumpsover';
+    src: url('../ttf/JumpsOver.otf');
+    }
