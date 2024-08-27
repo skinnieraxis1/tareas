@@ -1,0 +1,24 @@
+CREATE DATABASE servicios_miguelito;
+USE servicios_miguelito;
+CREATE TABLE cliente(
+    
+    dni int(11),
+    nombre varchar(50), 
+    apellido varchar(50), 
+    telefono varchar(30), 
+    email varchar(80), 
+    fecha_nacimiento date, 
+    PRIMARY KEY (dni)
+    
+);
+
+USE servicios_miguelito;
+CREATE TABLE mecanico(
+
+	legajo int(8)
+	ingreso float(10.2), 
+	nombre varchar(50),
+	apellido varchar(50),
+    PRIMARY KEY(legajo)
+
+);
