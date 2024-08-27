@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form method="get" action="envio.php">
+        <div>
+            <label for="nombre">Nombre: </label>
+            <input type="text" name="nombre" id="nombre" placeholder="Lucas" required>
+        </div>
+        <div>
+            <label for="apellido">Apellido: </label>
+            <input type="text" name="apellido" id="apellido" placeholder="Gonzalez" required>
+        </div>
+        <div>
+            <label for="email">Email: </label>
+            <input type="email" name="email" id="email" placeholder="nombre.apellido@gmail.com" required>
+        </div>
+        <div>
+            <label for="edad">Edad: </label>
+            <input type="number" name="edad" id="edad" placeholder="16" required>
+        </div>
+        <div>
+            <label for="pwd">Contraseña: </label>
+            <input type="password" name="pwd" id="pwd" required>
+        </div>
+        <div>
+            <label for="fechaDeNacimiento">Fecha de Nacimiento: </label>
+            <input type="date" name="fechaDeNacimiento" id="fechaDeNacimiento" required>
+        </div>
+        <div>
+            <label for="genero">genero: </label>
+            <select name="genero" id="genero">
+                <option value="1">male</option>
+                <option value="2">female</option>
+                <option value="3">other</option>
+            </select>
+        </div>
+        <div>
+            <label for="sexo">sexo</label>
+            <input type="radio" name="sexo" id="sexo" value="female">female
+            <input type="radio" name="sexo" id="sexo" value="male">male 
+        </div>
+        <div>
+            <label for="gusto">¿Que te gusta?</label>
+            <input type="checkbox" name="gusto" id="gusto" value="pizza">Pizza
+            <input type="checkbox" name="gusto" id="gusto" value="empanada">Empanada
+            <input type="checkbox" name="gusto" id="gusto" value="hamburguesa">Hamburguesa
+            <input type="checkbox" name="gusto" id="gusto" value="sushi">Sushi
+        </div>
+        <div>
+            <label for="descripcion">Descripcion</label>
+            <br>
+            <textarea name="descripcion" id="descripcion" cols="30" rows="10" placeholder="Explica boludeces..."></textarea>
+        </div>
+        <button type="submit">Enviar</button>
+        <button type="button">Boton</button>
+        <button type="reset">Resetear</button>
+        <button type="menu">Menu</button>
+
+    </form>
+</body>
+</html>

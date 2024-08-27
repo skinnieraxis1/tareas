@@ -1,0 +1,17 @@
+#gordoLOL{
+  block-size: top 100px;  
+}
+#tituloTeemo{
+    background-color: red;
+    margin: 30px 25% 30px 25%;
+    text-align: center;
+}
+body{
+    background-color: rgb(20, 20, 20);
+}
+p{
+    background-color: rgb(117, 117, 117);
+}
+div{
+    background-color: rgb(117, 117, 117);
+}

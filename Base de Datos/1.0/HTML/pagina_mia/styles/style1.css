@@ -1,0 +1,118 @@
+/*//ZONA CAMBIOS PRINCIPALES//*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: rgb(22, 22, 22);
+}
+
+div{
+    width: 100%;
+}
+
+p{
+    margin-left:100px;
+    margin-top: 3px;
+    font-size: 20px;
+    color: rgb(240, 240, 240);
+}
+
+/*H*/
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px 0px 20px 0px;
+    font-size: 90px;
+}
+
+h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+/*//ZONA ID TITULO//*/
+
+#titulo{
+    color: rgb(240, 240, 240);
+    text-align: center;
+    font-size: 60px;
+}
+
+.juegos{
+    background-image: url('img/img_DS.jpg');
+}
+
+#introduccion{
+    background-color: rgb(68, 68, 68);
+   
+    text-align: center;
+}
+
+/*//ZONA GUSTOS//*/
+
+#gustos{
+   background-color: rgb(92, 92, 92);
+}
+
+#titulosGustos{
+    margin-left: 30px;
+    font-size: 60px;
+    padding: 20px 0px 20px 0px;
+
+}
+
+#tituloPilar{
+    font-size: 60px;
+    margin-top: 0px;
+    padding: 150px 0px 0px 40px;
+    color: white;
+}
+
+.juegos{
+    background-image: url('../img/img_DS.jpg');
+    width: 100%;
+    height: 500px;
+}
+
+.musica{
+    background-image: url('../img/musica.jpg');
+    width: 100%;
+    height: 500px;
+}
+
+.arte{
+    background-image: url('../img/arteD.jpg');
+    width: 100%;
+    height: 500px;
+}
+
+.parrafoArte{
+    /* 1 pixel black shadow to left, top, right and bottom */
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.computacion{
+    background-image: url('../img/teclado.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
+
+/*//FOOTER//*/
+
+#pie{
+    font-size: 15px;
+    padding: 30px 0px 30px 10px;
+    margin-left: 40px;
+}
+
