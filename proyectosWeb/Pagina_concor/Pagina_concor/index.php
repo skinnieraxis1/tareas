@@ -25,7 +25,7 @@
           <a class="nav-link" href="./index.php">Asistencia</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="./personal">Personal</a>
+          <a class="nav-link" href="./personal.php">Personal</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Horarios</a>
