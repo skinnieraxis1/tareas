@@ -22,10 +22,10 @@
           <a class="nav-link active" aria-current="page" href="#">For one Less Abscence</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Asistencia</a>
+          <a class="nav-link" href="./index.php">Asistencia</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Personal</a>
+          <a class="nav-link" href="./personal">Personal</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Horarios</a>
